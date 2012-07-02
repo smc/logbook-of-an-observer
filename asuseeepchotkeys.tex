@@ -1,19 +1,55 @@
 \section*{Asus eeepc 1005HA hotkeys and ubuntu lucid}
 \vskip 2pt
 
-My Asus eeepc 1005HA was working like a charm from the day I bought. It came with Windows XP pre-installed. Since I am not quite a fan of XP i decided to install some GNU/Linux distro. I left the windows partition as it is and installed Ubuntu on one half of my hard disk. Anyway, I installed then latest Karmic Koala 9.10 Ubuntu Netbook Remix. If I remember right, it came with a 2.6.31 kernel. As expected everything worked out of the box. Hotkeys, network(wired n wireless, atheros devices), touchpad, sound,camera worked smoothly. There were some issues with hibernation. Microphone had some issues. I installed the backport modules then.
+My Asus eeepc 1005HA was working like a charm from the day I bought. 
+It came with Windows XP pre-installed. Since I am not quite a fan of XP I 
+decided to install some GNU/Linux distro. I left the windows partition as 
+it is and installed Ubuntu on one half of my hard disk. Anyway, I installed 
+then latest Karmic Koala 9.10 Ubuntu Netbook Remix. If I remember right, it 
+came with a 2.6.31 kernel. As expected everything worked out of the box. 
+Hotkeys, network(wired n wireless, atheros devices), touchpad, sound,camera 
+worked smoothly. There were some issues with hibernation. Microphone had some issues.
+I installed the backport modules then.
 
-When first beta of Lucid came out, I decided to switch. It came with a 2.6.32 kernel. Since it was beta, Lucid gave some small issues, related to the improved and renamed interface(Ubuntu Netbook Edition). Most of them were quickly fixed. Except the issue related to hot keys(eeepc-laptop,the driver which controls hot keys won’t load by default).
+When first beta of Lucid came out, I decided to switch. It came with a 2.6.32 kernel.
+Since it was beta, Lucid gave some small issues, related to the improved and renamed 
+interface(Ubuntu Netbook Edition). Most of them were quickly fixed. Except the issue
+related to hot keys(eeepc-laptop,the driver which controls hot keys won’t load by default).
 
-First, as any Ubuntu user will do, i did a little search on Ubuntu forums. As expected, the problem was already reported. Some kind of a solution was also given(pass acpi_osi=Linux as a kernel argument). But it didn’t workout quite well since it also killed my wired interface some how. I didn’t really dig up on what is happening then. Since it was not a great important thing for me, I kept it aside. Lately, when I got some free time, decided to explore a little.
+First, as any Ubuntu user will do, i did a little search on Ubuntu forums. As expected, 
+the problem was already reported. Some kind of a solution was also given(pass acpi\_osi=Linux
+as a kernel argument). But it didn’t workout quite well since it also killed my wired interface 
+some how. I didn’t really dig up on what is happening then. Since it was not a great important thing
+for me, I kept it aside. Lately, when I got some free time, decided to explore a little.
 
-So,I simply did the then easiest and blind thing to do. Check whether its fixed in the latest stable kernel. So, i downloaded the latest stable kernel(2.6.34), from kernel.org and compiled it. Since I knew quite about my laptop then, I spent some time on removing all unwanted drivers and technologies. Finally I compiled the kernel in my 1005HA. Since I knew from bugs reports that to load eeepc-laptop, acpi_osi is to be passed, I did that. Ta da, now it works 
+So,I simply did the then easiest and blind thing to do. 
+Check whether its fixed in the latest stable kernel. So,
+i downloaded the latest stable kernel(2.6.34), from kernel.org 
+and compiled it. Since I knew quite about my laptop then, 
+I spent some time on removing all unwanted drivers and technologies.
+Finally I compiled the kernel in my 1005HA. Since I knew from bugs
+reports that to load eeepc-laptop, acpi\_osi is to be passed, I did that. Ta da, now it works 
 
-Then as any curious and interested guy will do, I decided to explore more. Find out what was going wrong. Check why it worked in Karmic and not in Lucid. Different bug reports and details dating from November 2009 quite gave an idea.
+Then as any curious and interested guy will do, I decided to explore more. 
+Find out what was going wrong. Check why it worked in Karmic and not in Lucid.
+Different bug reports and details dating from November 2009 quite gave an idea.
 
-The issue is related to ASUS and Windows 7. Apparently for compatibility with Windows 7, they changed their ACPI device from the usual one(ASUS010) to Windows Management Interface(WMI). BIOS updates to enable windows 7 support simply disables the ASUS010 interface used by eeepc-laptop when an OS is detected as Windows 7. When OSI is invoked by BIOS, Linux kernel usually returns true for any windows string. An easy way is to blacklist the new eeepc models. But, its not the right solution also it created some issues since its not the optimal solution.
+The issue is related to ASUS and Windows 7. Apparently for compatibility 
+with Windows 7, they changed their ACPI device from the usual one(ASUS010)
+to Windows Management Interface(WMI). BIOS updates to enable windows 7 
+support simply disables the ASUS010 interface used by eeepc-laptop when an 
+OS is detected as Windows 7. When OSI is invoked by BIOS, Linux kernel usually
+returns true for any windows string. An easy way is to blacklist the new eeepc
+models. But, its not the right solution also it created some issues since its not the optimal solution.
 
-The permanent solution for the problem is to write eeepc-wmi interface. There is some preliminary experimental driver available from Yong Wang. It is quite in its infancy. It will load the eeepc-wmi driver when acpi_osi is not passed. One of the most used hot keys is the Wireless LAN one. But it is still not done in the new eeepc-wmi driver. So, I guess it might take some time for it to get fixed. Or someone who really know how do this should sit on it and finish it off. Device drivers are quite out of my understanding, but I am ready to help in anyway I can. So, for time being, this workaround looks the only way forward.
+The permanent solution for the problem is to write eeepc-wmi interface. There 
+is some preliminary experimental driver available from Yong Wang. It is quite in
+its infancy. It will load the eeepc-wmi driver when acpi\_osi is not passed.
+One of the most used hot keys is the Wireless LAN one. But it is still not done in 
+the new eeepc-wmi driver. So, I guess it might take some time for it to get fixed. Or someone 
+who really know how do this should sit on it and finish it off. Device drivers are quite out
+of my understanding, but I am ready to help in anyway I can. So, for time being, this workaround
+looks the only way forward.
 
 \subsection{Comments}
 \begin{enumerate}
