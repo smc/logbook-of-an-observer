@@ -1,12 +1,35 @@
 
-\documentclass{article}
+\documentclass[10pt,twoside,draft]{book}
+\usepackage[
+  inner=0.75in,
+  outer=0.75in,
+  top=0.75in,
+  bottom=0.75in,
+  paperwidth=6in,
+  paperheight=9in]{geometry}
 \usepackage{fontspec}
 \usepackage{xltxtra}
 \usepackage[meera]{mlym}
 \usepackage{log}
+\usepackage{fancyhdr}
+\usepackage[final]{microtype}
 
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
 
-\newcommand{\booktitle}{Logbook of an Observer | ഒരു നിരീക്ഷകന്റെ കുറിപ്പുകള്‍}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\linespread{1.1}
+%\widopenalty=10000
+\clubpenalty=10000
+\raggedbottom
+
+% Change the \S to something else if you want a different
+% way of marking a scene change or section break
+\newcommand{\sectionbreak}{\medskip\centerline{\S}\medskip}
+%\newcommand{\booktitle}{Logbook of an Observer | ഒരു നിരീക്ഷകന്റെ കുറിപ്പുകള്‍}
 %\newcommand{\booksubtitle}{FOSS: What We Wish We Had Known When We Started}
 %\newcommand{\bookeditor}{Lydia Pintscher}
 %\newcommand{\bookyear}{2012}
@@ -17,6 +40,48 @@
 
 
 \begin{document}
+~
+\vfill
+{
+
+\centerline{\Huge\bf\lsstyle Logbook of an Observer}
+\centerline{\\}
+\centerline{\bf\lsstyle അഥവാ}
+\centerline{\\}
+\centerline{\Huge\bf\lsstyle ഒരു നിരീക്ഷകന്റെ കുറിപ്പുകള്‍}
+
+}
+
+\vfill
+\centerline{\huge Jinesh K J}
+\vfill
+~
+\vfill
+~
+\newpage
+~
+\vfill
+
+Lets add the License/dedication here
+
+\vfill
+~
+
+\mainmatter
+\fancyhead[RO,LE]{\thepage}
+\fancyhead[CO]{\emph{Logbook of an Observer}}
+\fancyhead[CE]{\emph{ഒരു നിരീക്ഷകന്റെ കുറിപ്പുകള്‍}}
+\fancypagestyle{plain}{%
+  \fancyhead{}
+  \fancyfoot{}
+
+  \fancyhead[CO]{\emph{Logbook of an Observer}}
+  \fancyhead[CE]{\emph{ഒരു നിരീക്ഷകന്റെ കുറിപ്പുകള്‍}}
+  \fancyfoot[CO]{\thepage}
+  \fancyfoot[CE]{\thepage}
+}
+
+
 
 %\frontmatter
 %\input{topmatter}
@@ -36,5 +101,5 @@
 \input{asuseeepcmigo.tex}
 \input{studentpolitics.tex}
 \input{evaluatingfosscontributions.tex}
-%\backmatter
+\backmatter
 \end{document}
