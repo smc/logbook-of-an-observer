@@ -7,7 +7,7 @@ decided to install some GNU/Linux distro. I left the Windows partition as
 it is and installed Ubuntu on one half of my hard disk. Anyway, I installed 
 then latest Karmic Koala 9.10 Ubuntu Netbook Remix. If I remember correctly, 
 it came with a 2.6.31 kernel. As expected, everything worked out of the box.
- Hotkeys, network(wired n wireless, atheros devices), touchpad, sound and camera 
+ Hotkeys, network (wired n wireless, atheros devices), touchpad, sound and camera 
 worked smoothly. There were some issues with hibernation. Microphone also had some 
 issues. I installed the backported modules to fix them.
 
@@ -24,7 +24,7 @@ then. Since it was not a very important thing for me, I kept it aside. Lately, w
 got some free time, decided to explore a little.
 
 So I simply did the easiest and blind thing to do. To check whether it is fixed in the 
-latest stable kernel. So I downloaded the latest stable kernel(2.6.34), from kernel.org 
+latest stable kernel. So I downloaded the latest stable kernel (2.6.34), from kernel.org 
 and compiled it. Since I knew quite bit about my laptop by then, I spent sometime on 
 removing all unwanted drivers and technologies. Finally I compiled the kernel in my 1005HA. 
 Since I knew from bug reports that to load eeepc-laptop, acpi\_osi needs to be passed, 
@@ -35,7 +35,7 @@ what was going wrong. To check why it worked in Karmic and not in Lucid.
 Different bug reports and details dating from November 2009 gave a good idea.
 
 The issue is related to ASUS and Windows 7. Apparently for compatibility with Windows 7, 
-ASUS changed their ACPI device from the usual one(ASUS010) to Windows Management Interface(WMI). 
+ASUS changed their ACPI device from the usual one (ASUS010) to Windows Management Interface (WMI). 
 BIOS updates to enable windows 7 support simply disables the ASUS010 interface used by eeepc-laptop 
 when an OS is detected as Windows 7. When OSI is invoked by BIOS, Linux kernel usually returns true 
 for any windows string. An easy is to blacklist the new eeepc models. But, it is not the right solution. 
@@ -48,7 +48,5 @@ But it is still not done in the new eeepc-wmi driver. So, I guess it might take 
 for it to get fixed. Or someone who really know how do this should sit on it and finish it off. 
 Device drivers are quite out of my understanding, but I am ready to help in anyway I can. 
 For time being, this workaround looks the only way forward.
-
-
 
 \newpage 
