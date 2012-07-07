@@ -1,7 +1,7 @@
 \section*{Asus eeepc 1005HA hotkeys and ubuntu lucid}
 \vskip 2pt
 
-My Asus eeepc 1005HA was working like a charm from the day I bought. 
+My Asus eeepc 1005HA was working like a charm from the day I bought it. 
 It came with Windows XP pre-installed. Since I am not quite a fan of XP, I 
 decided to install some GNU/Linux distro. I left the Windows partition as 
 it is and installed Ubuntu on one half of my hard disk. Anyway, I installed 
@@ -21,9 +21,9 @@ the problem was already reported. Some kind of a solution was also given
 (to pass acpi\_osi=Linux as a kernel parameter). But it didn't workout quite well since 
 it also killed my wired interface some how. I didn’t really dig up on what is happening 
 then. Since it was not a very important thing for me, I kept it aside. Lately, when I 
-got some free time, decided to explore a little.
+got some free time, I decided to explore a little.
 
-So I simply did the easiest and blind thing to do. To check whether it is fixed in the 
+So I simply did the easiest and blindest thing to do. To check whether it is fixed in the 
 latest stable kernel. So I downloaded the latest stable kernel (2.6.34), from kernel.org 
 and compiled it. Since I knew quite bit about my laptop by then, I spent sometime on 
 removing all unwanted drivers and technologies. Finally I compiled the kernel in my 1005HA. 
@@ -31,15 +31,15 @@ Since I knew from bug reports that to load eeepc-laptop, acpi\_osi needs to be p
 I did that. Ta da,  it started working.
 
 Then like any curious and interested guy would do, I decided to explore more and find out 
-what was going wrong. To check why it worked in Karmic and not in Lucid. 
+what had gone wrong. To check why it worked in Karmic and not in Lucid. 
 Different bug reports and details dating from November 2009 gave a good idea.
 
 The issue is related to ASUS and Windows 7. Apparently for compatibility with Windows 7, 
 ASUS changed their ACPI device from the usual one (ASUS010) to Windows Management Interface (WMI). 
 BIOS updates to enable windows 7 support simply disables the ASUS010 interface used by eeepc-laptop 
 when an OS is detected as Windows 7. When OSI is invoked by BIOS, Linux kernel usually returns true 
-for any windows string. An easy is to blacklist the new eeepc models. But, it is not the right solution. 
-Also it created some issues since its not the optimal solution.
+for any windows string. An easy way is to blacklist the new eeepc models. But, it is not the right solution. 
+Also it created some issues since it was not the optimal solution.
 
 The permanent solution for the problem is to write eeepc-wmi interface. There is some preliminary 
 experimental driver available from Yong Wang. It is quite in its infancy. It will load the eeepc-wmi 
@@ -47,6 +47,6 @@ driver when acpi\_osi is not passed. One of the most used hot keys is the Wirele
 But it is still not done in the new eeepc-wmi driver. So, I guess it might take some time 
 for it to get fixed. Or someone who really know how do this should sit on it and finish it off. 
 Device drivers are quite out of my understanding, but I am ready to help in anyway I can. 
-For time being, this workaround looks the only way forward.
+For the time being, this workaround looks the only way forward.
 
 \newpage 
