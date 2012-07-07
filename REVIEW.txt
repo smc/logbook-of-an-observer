@@ -14,3 +14,4 @@ softwarefreedom.tex - Praveen A
 viewonwomen.tex - Praveen A
 social-science.tex - Praveen A
 social-science2.tex - Praveen A
+asuseeepcmigo.tex - Haris Ibrahim K. V.
