@@ -1,0 +1,14 @@
+Once review is completed add it here. It would be good if at least 2 
+people review an article (the more the merrier).
+
+blog1.tex - Vishnu M
+blog2.tex - Praveen A
+asuseeepchotkeys.tex- Minto J
+cricket-nationality.tex - Praveen A
+freesoftware.tex - Praveen A
+microsoft-mammooty.tex - Praveen A
+mobile.tex - Praveen A
+religion-science.tex - Praveen A
+sari.tex - Praveen A
+softwarefreedom.tex - Praveen A
+viewonwomen.tex - Praveen A

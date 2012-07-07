@@ -1,0 +1,25 @@
+
+If you'd like to help us in this project, follow these steps
+
+Source Documents:
+
+1. Articles collected by CK Raju http://booktype-demo.sourcefabric.org/memoirs-of-jinesh/
+2. Articles published in malayal.am http://malayal.am/user/77/articles
+
+Converting to tex:
+
+1. Check if a document is already converted to tex formatting.
+2. If an article is not converted, copy the content and apply
+tex formatting (use any existing document as reference).
+3. Add the file to Logbook.tex (see how other files are added).
+
+Copy editing:
+
+If you see an article already in tex, help with the following tasks
+
+1. Spell checking
+2. Grammar corrections (check if I is in capital letters).
+3. Spacing (make sure there is a space before a 'bracket' is started,
+space after a 'comma' or full stop etc.)
+
+Once you complete the review add the file name to REVIEW.txt 
