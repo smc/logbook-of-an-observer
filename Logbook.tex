@@ -13,6 +13,8 @@
 \usepackage{log}
 \usepackage{fancyhdr}
 \usepackage[final]{microtype}
+\usepackage{polyglossia}
+\setdefaultlanguage{malayalam}
 
 \pagestyle{fancy}
 \fancyhead{}
@@ -22,9 +24,10 @@
 \renewcommand{\footrulewidth}{0pt}
 
 \linespread{1.1}
-%\widopenalty=10000
+\widowpenalty=10000
 \clubpenalty=10000
 \raggedbottom
+\sloppy
 
 % Change the \S to something else if you want a different
 % way of marking a scene change or section break
