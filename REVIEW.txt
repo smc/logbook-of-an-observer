@@ -14,3 +14,5 @@ sari.tex - Praveen A
 softwarefreedom.tex - Praveen A
 viewonwomen.tex - Praveen A
 asuseeepcmigo.tex - Haris Ibrahim K. V.
+studentpolitics.tex - Haris Ibrahim K. V.
+politics.tex - Haris Ibrahim K. V.
