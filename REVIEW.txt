@@ -15,7 +15,7 @@ viewonwomen.tex - Praveen A
 social-science.tex - Praveen A
 social-science2.tex - Praveen A
 asuseeepcmigo.tex - Haris Ibrahim K. V.
-studentpolitics.tex - Haris Ibrahim K. V.
+studentpolitics.tex - Haris Ibrahim K. V., Praveen A
 politics.tex - Haris Ibrahim K. V.
 firstpost.tex - Haris Ibrahim K. V.
 blog3.tex - Haris Ibrahim K. V., Praveen A
