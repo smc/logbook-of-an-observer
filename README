@@ -23,3 +23,8 @@ If you see an article already in tex, help with the following tasks
 space after a 'comma' or full stop etc.)
 
 Once you complete the review add the file name to REVIEW.txt 
+
+Generating PDF:
+
+Install kile, texlive-xetex packages. Select XeLatex from kile toolbar
+to generate PDF.
