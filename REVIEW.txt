@@ -19,3 +19,4 @@ studentpolitics.tex - Haris Ibrahim K. V.
 politics.tex - Haris Ibrahim K. V.
 firstpost.tex - Haris Ibrahim K. V.
 blog3.tex - Haris Ibrahim K. V.
+blog4.tex - Haris Ibrahim K. V.
