@@ -17,3 +17,4 @@ asuseeepcmigo.tex - Haris Ibrahim K. V.
 studentpolitics.tex - Haris Ibrahim K. V.
 politics.tex - Haris Ibrahim K. V.
 firstpost.tex - Haris Ibrahim K. V.
+blog3.tex - Haris Ibrahim K. V.
