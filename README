@@ -28,3 +28,20 @@ Generating PDF:
 
 Install kile, texlive-xetex packages. Select XeLatex from kile toolbar
 to generate PDF.
+
+Workflow:
+
+1. Sign up for an account with gitorious.org (optionally you can send
+patches, but opening an account makes it easy for you to contribute).
+2. Upload your SSH key (ssh-keygen will create a key and gitorious
+'Dashboard' ie, https://gitorious.org/ when you are logged in, has option 
+to upload your key)
+3. Clone the repo using 'Clone repository' button on project page
+(https://gitorious.org/logbook-of-an-observer/logbook-of-an-observer).
+This will create a copy of the repository for your personal use.
+4. Clone the repo to your local machine
+git clone <url for your pesonal repo>
+You can see the url next to 'Clone & push urls' on your personal repo.
+5. Make your changes locally. git add, git commit, git push.
+6. Request your changes to be merged using 'Request Merge' button.
+(You may ask for commit access after first merge request)
