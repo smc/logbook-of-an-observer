@@ -21,6 +21,7 @@ If you see an article already in tex, help with the following tasks
 2. Grammar corrections (check if I is in capital letters).
 3. Spacing (make sure there is a space before a 'bracket' is started,
 space after a 'comma' or full stop etc.)
+4. Split long lines to make small changes easy to track.
 
 Once you complete the review add the file name to REVIEW.txt 
 
