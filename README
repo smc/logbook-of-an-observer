@@ -11,7 +11,8 @@ Converting to tex:
 1. Check if a document is already converted to tex formatting.
 2. If an article is not converted, copy the content and apply
 tex formatting (use any existing document as reference).
-3. Add the file to Logbook.tex (see how other files are added).
+5. Convert any links to references.
+4. Add the file to Logbook.tex (see how other files are added).
 
 Copy editing:
 
@@ -22,6 +23,7 @@ If you see an article already in tex, help with the following tasks
 3. Spacing (make sure there is a space before a 'bracket' is started,
 space after a 'comma' or full stop etc.)
 4. Split long lines to make small changes easy to track.
+5. See if any link has missing references.
 
 Once you complete the review add the file name to REVIEW.txt 
 
