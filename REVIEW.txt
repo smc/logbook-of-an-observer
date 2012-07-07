@@ -3,8 +3,7 @@ people review an article (the more the merrier).
 
 blog1.tex - Vishnu M
 blog2.tex - Praveen A
-asuseeepchotkeys.tex - Minto J
-asuseeepchotkeys.tex - Haris Ibrahim K. V.
+asuseeepchotkeys.tex - Minto J, Haris Ibrahim K. V.
 cricket-nationality.tex - Praveen A
 freesoftware.tex - Praveen A
 microsoft-mammooty.tex - Praveen A
