@@ -13,3 +13,4 @@ religion-science.tex - Praveen A
 sari.tex - Praveen A
 softwarefreedom.tex - Praveen A
 viewonwomen.tex - Praveen A
+asuseeepcmigo.tex - Haris Ibrahim K. V.
