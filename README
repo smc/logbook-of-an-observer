@@ -29,8 +29,8 @@ Once you complete the review add the file name to REVIEW.txt
 
 Generating PDF:
 
-Install kile, texlive-xetex packages. Select XeLatex from kile toolbar
-to generate PDF.
+Install kile, texlive-xetex, texlive-latex-extra packages. Select XeLateX
+from kile toolbar to generate PDF.
 
 note: you should compile the source file twice. (this is to get the table of contents updated) 
 
