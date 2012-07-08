@@ -1,4 +1,36 @@
+\usepackage[
+  inner=0.75in,
+  outer=0.75in,
+  top=0.75in,
+  bottom=0.75in,
+  paperwidth=15cm,
+  paperheight=20cm]{geometry}
+\usepackage{fontspec}
+\usepackage{xltxtra}
+\usepackage[meera]{mlym}
+\usepackage{fancyhdr}
+\usepackage[final]{microtype}
+\usepackage{polyglossia}
+
 \usepackage{url}
+
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\linespread{1.1}
+\widowpenalty=10000
+\clubpenalty=10000
+\raggedbottom
+\sloppy
+
+
+
+
+\newcommand{\secstar}[1]{\section*{\addcontentsline{toc}{section}{#1}\centering #1}}
 
 %% Define a new 'leo' style for the package that will use a smaller font.
 \makeatletter
