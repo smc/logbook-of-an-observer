@@ -14,7 +14,7 @@
 \usepackage{fancyhdr}
 \usepackage[final]{microtype}
 \usepackage{polyglossia}
-\setdefaultlanguage{english}
+
 
 
 \pagestyle{fancy}
@@ -30,10 +30,8 @@
 \raggedbottom
 \sloppy
 
-\newcommand{\sectionbreak}{\medskip\centerline{\S}\medskip}
-
-
-
+%\newcommand{\sectionbreak}{\medskip\centerline{\S}\medskip}
+\newcommand{\secstar}[1]{\section*{\addcontentsline{toc}{section}{#1}\centering #1}}
 
 \begin{document}
 ~
@@ -80,7 +78,7 @@ Lets add the License/dedication here
 
 
 \frontmatter
-%\tableofcontents        %have to write Logbook.toc - Hrishi
+\tableofcontents        %have to write Logbook.toc - Hrishi
 \mainmatter
 \input{foreword.tex}
 \input{firstpost.tex}
