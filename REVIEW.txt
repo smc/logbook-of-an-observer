@@ -1,3 +1,7 @@
+Update:- while reviewing each post make sure that the '/section*' section is renamed to '/secstar', 
+this is a small hack to generate the Table of Contents, also you should compile Logbook.tex twice to get the Table of Contents Updated. - Hrishi
+----------------------------------------------------------------------------------------------------
+
 Once review is completed add it here. It would be good if at least 2 
 people review an article (the more the merrier).
 

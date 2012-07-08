@@ -32,6 +32,8 @@ Generating PDF:
 Install kile, texlive-xetex packages. Select XeLatex from kile toolbar
 to generate PDF.
 
+note: you should compile the source file twice. (this is to get the table of contents updated) 
+
 Workflow:
 
 1. Sign up for an account with gitorious.org (optionally you can send
