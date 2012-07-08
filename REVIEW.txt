@@ -5,7 +5,7 @@ this is a small hack to generate the Table of Contents, also you should compile 
 Once review is completed add it here. It would be good if at least 2 
 people review an article (the more the merrier).
 
-blog1.tex - Vishnu M
+blog1.tex - Vishnu M, Haris Ibrahim K. V.
 blog2.tex - Praveen A
 asuseeepchotkeys.tex - Minto J, Haris Ibrahim K. V.
 cricket-nationality.tex - Praveen A
@@ -19,7 +19,7 @@ viewonwomen.tex - Praveen A
 social-science.tex - Praveen A
 social-science2.tex - Praveen A
 asuseeepcmigo.tex - Haris Ibrahim K. V.
-studentpolitics.tex - Haris Ibrahim K. V.
+studentpolitics.tex - Haris Ibrahim K. V., Praveen A
 politics.tex - Haris Ibrahim K. V.
 firstpost.tex - Haris Ibrahim K. V.
 blog3.tex - Haris Ibrahim K. V., Praveen A
