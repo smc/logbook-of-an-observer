@@ -27,3 +27,4 @@ blog4.tex - Haris Ibrahim K. V.
 beinglonely.tex - Haris Ibrahim K. V.
 gangwar.tex - Haris Ibrahim K. V.
 pleaseread.tex - Haris Ibrahim K. V.
+evaluatingfosscontributions.tex - Haris Ibrahim K. V.
