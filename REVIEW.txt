@@ -28,3 +28,6 @@ beinglonely.tex - Haris Ibrahim K. V.
 gangwar.tex - Haris Ibrahim K. V.
 pleaseread.tex - Haris Ibrahim K. V.
 evaluatingfosscontributions.tex - Haris Ibrahim K. V.
+formula1.tex - Praveen A
+cricket-spirit.tex - Praveen A
+small-teams.tex - Praveen A
