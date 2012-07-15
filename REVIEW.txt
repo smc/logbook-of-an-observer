@@ -22,6 +22,7 @@ gangwar.tex - Haris Ibrahim K. V.
 ipl-party.tex - Praveen A
 microsoft-mammooty.tex - Praveen A
 mobile.tex - Praveen A
+monte-carlo.tex - Praveen A
 pleaseread.tex - Haris Ibrahim K. V.
 politics.tex - Haris Ibrahim K. V., Minto Joseph
 religion-science.tex - Praveen A
