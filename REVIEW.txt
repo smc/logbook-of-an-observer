@@ -5,29 +5,30 @@ this is a small hack to generate the Table of Contents, also you should compile 
 Once review is completed add it here. It would be good if at least 2 
 people review an article (the more the merrier).
 
+asuseeepchotkeys.tex - Minto J, Haris Ibrahim K. V.
+asuseeepcmigo.tex - Haris Ibrahim K. V.
+beinglonely.tex - Haris Ibrahim K. V.
 blog1.tex - Vishnu M, Haris Ibrahim K. V.
 blog2.tex - Praveen A, Haris Ibrahim K. V.
-asuseeepchotkeys.tex - Minto J, Haris Ibrahim K. V.
-cricket-nationality.tex - Praveen A
-freesoftware.tex - Praveen A
-microsoft-mammooty.tex - Praveen A
-mobile.tex - Praveen A
-religion-science.tex - Praveen A
-sari.tex - Praveen A
-softwarefreedom.tex - Praveen A
-viewonwomen.tex - Praveen A
-social-science.tex - Praveen A
-social-science2.tex - Praveen A
-asuseeepcmigo.tex - Haris Ibrahim K. V.
-studentpolitics.tex - Haris Ibrahim K. V., Praveen A
-politics.tex - Haris Ibrahim K. V.
-firstpost.tex - Haris Ibrahim K. V.
 blog3.tex - Haris Ibrahim K. V., Praveen A
 blog4.tex - Haris Ibrahim K. V.
-beinglonely.tex - Haris Ibrahim K. V.
-gangwar.tex - Haris Ibrahim K. V.
-pleaseread.tex - Haris Ibrahim K. V.
-evaluatingfosscontributions.tex - Haris Ibrahim K. V.
-formula1.tex - Praveen A
+cricket-nationality.tex - Praveen A
 cricket-spirit.tex - Praveen A
+evaluatingfosscontributions.tex - Haris Ibrahim K. V.
+firstpost.tex - Haris Ibrahim K. V.
+formula1.tex - Praveen A
+freesoftware.tex - Praveen A
+gangwar.tex - Haris Ibrahim K. V.
+ipl-party.tex - Praveen A
+microsoft-mammooty.tex - Praveen A
+mobile.tex - Praveen A
+pleaseread.tex - Haris Ibrahim K. V.
+politics.tex - Haris Ibrahim K. V.
+religion-science.tex - Praveen A
+sari.tex - Praveen A
 small-teams.tex - Praveen A
+softwarefreedom.tex - Praveen A
+social-science.tex - Praveen A
+social-science2.tex - Praveen A
+studentpolitics.tex - Haris Ibrahim K. V., Praveen A
+viewonwomen.tex - Praveen A
