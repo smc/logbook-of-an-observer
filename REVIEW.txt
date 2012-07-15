@@ -30,5 +30,6 @@ small-teams.tex - Praveen A
 softwarefreedom.tex - Praveen A
 social-science.tex - Praveen A
 social-science2.tex - Praveen A
+spanish-leg.tex - Praveen A
 studentpolitics.tex - Haris Ibrahim K. V., Praveen A
 viewonwomen.tex - Praveen A
