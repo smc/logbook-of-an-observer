@@ -11,11 +11,11 @@ beinglonely.tex - Haris Ibrahim K. V.
 blog1.tex - Vishnu M, Haris Ibrahim K. V.
 blog2.tex - Praveen A, Haris Ibrahim K. V.
 blog3.tex - Haris Ibrahim K. V., Praveen A
-blog4.tex - Haris Ibrahim K. V.
+blog4.tex - Haris Ibrahim K. V., Minto Joseph
 cricket-nationality.tex - Praveen A
 cricket-spirit.tex - Praveen A
-evaluatingfosscontributions.tex - Haris Ibrahim K. V.
-firstpost.tex - Haris Ibrahim K. V.
+evaluatingfosscontributions.tex - Haris Ibrahim K. V., Minto Joseph
+firstpost.tex - Haris Ibrahim K. V., Minto Joseph
 formula1.tex - Praveen A
 freesoftware.tex - Praveen A
 gangwar.tex - Haris Ibrahim K. V.
