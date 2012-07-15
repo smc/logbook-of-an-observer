@@ -5,7 +5,7 @@ this is a small hack to generate the Table of Contents, also you should compile 
 Once review is completed add it here. It would be good if at least 2 
 people review an article (the more the merrier).
 
-asuseeepchotkeys.tex - Minto J, Haris Ibrahim K. V.
+asuseeepchotkeys.tex - Minto Joseph, Haris Ibrahim K. V.
 asuseeepcmigo.tex - Haris Ibrahim K. V.
 beinglonely.tex - Haris Ibrahim K. V.
 blog1.tex - Vishnu M, Haris Ibrahim K. V.
@@ -23,12 +23,12 @@ ipl-party.tex - Praveen A
 microsoft-mammooty.tex - Praveen A
 mobile.tex - Praveen A
 pleaseread.tex - Haris Ibrahim K. V.
-politics.tex - Haris Ibrahim K. V.
+politics.tex - Haris Ibrahim K. V., Minto Joseph
 religion-science.tex - Praveen A
 sari.tex - Praveen A
 small-teams.tex - Praveen A
 softwarefreedom.tex - Praveen A
 social-science.tex - Praveen A
 social-science2.tex - Praveen A
-studentpolitics.tex - Haris Ibrahim K. V., Praveen A
+studentpolitics.tex - Haris Ibrahim K. V., Praveen A, Minto Joseph
 viewonwomen.tex - Praveen A
