@@ -12,6 +12,7 @@ blog1.tex - Vishnu M, Haris Ibrahim K. V.
 blog2.tex - Praveen A, Haris Ibrahim K. V.
 blog3.tex - Haris Ibrahim K. V., Praveen A
 blog4.tex - Haris Ibrahim K. V., Minto Joseph
+buji.tex - Praveen A
 canada.tex - Praveen A
 cricket-nationality.tex - Praveen A
 cricket-spirit.tex - Praveen A
