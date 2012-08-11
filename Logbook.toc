@@ -42,11 +42,14 @@
 \contentsline {section}{ബുഡാപെസ്റ്റിലെ തണുപ്പന്‍ കാറോട്ടം}{90}
 \contentsline {section}{അപ്രത്യക്ഷമാകുന്ന എഡിറ്റോറിയല്‍ ഡെസ്ക്}{93}
 \contentsline {section}{പോയിന്റ് നിലയിലെ വ്യത്യാസം കൂട്ടിയ ബെല്‍ജിയന്‍ ഗ്രാന്‍പ്രി}{97}
-\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{100}
-\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{104}
-\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{108}
-\contentsline {chapter}{\numberline {3}Hospital Logs}{115}
-\contentsline {section}{Hospital Log 1}{115}
-\contentsline {section}{Hospital Log 2}{121}
-\contentsline {section}{Hospital Log 3}{128}
-\contentsline {section}{Hospital Log 4}{131}
+\contentsline {section}{ആസ്റ്റെറിക്സിന്റെ സാഹസിക കഥകള്‍}{100}
+\contentsline {section}{ഫോര്‍മുല വണ്‍ ഇന്ത്യയിലെത്തുമ്പോള്‍}{104}
+\contentsline {section}{തലമുടിയെക്കുറിച്ച് ഒരുപന്യാസം}{106}
+\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{109}
+\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{113}
+\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{117}
+\contentsline {chapter}{\numberline {3}Hospital Logs}{125}
+\contentsline {section}{Hospital Log 1}{125}
+\contentsline {section}{Hospital Log 2}{131}
+\contentsline {section}{Hospital Log 3}{138}
+\contentsline {section}{Hospital Log 4}{141}
