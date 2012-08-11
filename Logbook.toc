@@ -8,7 +8,6 @@
 \contentsline {section}{സ്വതന്ത്ര സോഫ്റ്റ്‌വെയര്‍ - ചില നിരീക്ഷണങ്ങള്‍}{12}
 \contentsline {section}{Account of a campus gang war!!!}{14}
 \contentsline {section}{മലയാളിയുടെ പെണ്‍കാഴ്ചയെപ്പറ്റി...}{16}
-<<<<<<< HEAD
 \contentsline {section}{സോഫ്റ്റ്‌വെയര്‍ സ്വാതന്ത്ര്യം}{17}
 \contentsline {section}{Being Lonely (it is good if it makes you think!!!)}{19}
 \contentsline {section}{നന്ദി മൈക്രോസോഫ്റ്റ്... നന്ദി മമ്മൂട്ടി...}{22}
@@ -19,7 +18,7 @@
 \contentsline {section}{ചില സാമൂഹ്യശാസ്ത്ര നിരീക്ഷണങ്ങളും അഭിപ്രായങ്ങളും}{33}
 \contentsline {section}{അഭിനവ് ബിന്ദ്രയും ഒളിമ്പിക് സ്വര്‍ണ്ണവും ചില ചിന്തകളും}{36}
 \contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍, സ്വാതന്ത്ര്യം}{37}
-\contentsline {section}{ക്രിക്കറ്റ്,ദേശീയത,പണം, ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{40}
+\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം, ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{40}
 \contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{42}
 \contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{44}
 \contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{46}
@@ -54,50 +53,3 @@
 \contentsline {section}{Hospital Log 2}{133}
 \contentsline {section}{Hospital Log 3}{140}
 \contentsline {section}{Hospital Log 4}{143}
-=======
-\contentsline {section}{സോഫ്റ്റ്‌വെയര്‍ സ്വാതന്ത്ര്യം}{18}
-\contentsline {section}{Being Lonely (it is good if it makes you think!!!)}{20}
-\contentsline {section}{നന്ദി മൈക്രോസോഫ്റ്റ്... നന്ദി മമ്മൂട്ടി...}{23}
-\contentsline {section}{ശാസ്ത്രവും മതവും - ചില അഭിപ്രായങ്ങള്‍}{25}
-\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ചില നിരീക്ഷണങ്ങള്‍}{28}
-\contentsline {section}{Please Read the Offer Document Carefully Before...}{31}
-\contentsline {section}{എന്റെ ചില സാമൂഹ്യശാസ്ത്ര ചിന്തകള്‍}{33}
-\contentsline {section}{ചില സാമൂഹ്യശാസ്ത്ര നിരീക്ഷണങ്ങളും അഭിപ്രായങ്ങളും}{36}
-\contentsline {section}{അഭിനവ് ബിന്ദ്രയും ഒളിമ്പിക് സ്വര്‍ണ്ണവും ചില ചിന്തകളും}{39}
-\contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍, സ്വാതന്ത്ര്യം}{41}
-\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം, ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{44}
-\contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{46}
-\contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{48}
-\contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{50}
-\contentsline {section}{Evaluating FOSS Contributions}{53}
-\contentsline {chapter}{\numberline {2}മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ പോര്‍ട്ടലില്‍ നിന്നും}{57}
-\contentsline {section}{കാറോട്ടത്തിന്റെ മാസ്മരികത: ഫോര്‍മുല വണ്‍}{57}
-\contentsline {section}{ക്രിക്കറ്റ് കുടത്തിലെ ഭൂതം}{59}
-\contentsline {section}{അംബാനി മുതല്‍ മല്യ വരെ}{62}
-\contentsline {section}{കുഞ്ഞന്‍ ടീമുകളുടെ ബിസിനസ് മോഡല്‍}{65}
-\contentsline {section}{ഐപിഎല്‍ ആഫ്റ്റര്‍ മാച്ച് പാര്‍ട്ടി}{68}
-\contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിന് തുടക്കം}{71}
-\contentsline {section}{അപകടങ്ങളുടെ മോണ്ടേകാര്‍ലോ}{73}
-\contentsline {section}{തന്ത്രങ്ങളുടെ ഇസ്താംബൂള്‍}{76}
-\contentsline {section}{ടയറുകള്‍ കളിനിയന്ത്രിച്ച കാനഡ ഗ്രാന്‍പ്രി}{79}
-\contentsline {section}{ബുദ്ധിജീവികളുടെ സ്വത്വപ്രതിസന്ധി}{82}
-\contentsline {section}{റിലയന്‍സിന് ഇനി പമ്പുകള്‍ തുറക്കാം!}{87}
-\contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{90}
-\contentsline {section}{സഹിഷ്ണുത എന്ന മിത്ത്}{93}
-\contentsline {section}{ആവേശം അലകളുയര്‍ത്തിയ ബ്രിട്ടീഷ് ഗ്രാന്‍പ്രീ}{96}
-\contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവ്}{100}
-\contentsline {section}{ബുഡാപെസ്റ്റിലെ തണുപ്പന്‍ കാറോട്ടം}{103}
-\contentsline {section}{അപ്രത്യക്ഷമാകുന്ന എഡിറ്റോറിയല്‍ ഡെസ്ക്}{106}
-\contentsline {section}{പോയിന്റ് നിലയിലെ വ്യത്യാസം കൂട്ടിയ ബെല്‍ജിയന്‍ ഗ്രാന്‍പ്രി}{111}
-\contentsline {section}{ആസ്റ്റെറിക്സിന്റെ സാഹസിക കഥകള്‍}{114}
-\contentsline {section}{ഫോര്‍മുല വണ്‍ ഇന്ത്യയിലെത്തുമ്പോള്‍}{119}
-\contentsline {section}{തലമുടിയെക്കുറിച്ച് ഒരുപന്യാസം}{122}
-\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{126}
-\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{130}
-\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{135}
-\contentsline {chapter}{\numberline {3}Hospital Logs}{143}
-\contentsline {section}{Hospital Log 1}{143}
-\contentsline {section}{Hospital Log 2}{149}
-\contentsline {section}{Hospital Log 3}{157}
-\contentsline {section}{Hospital Log 4}{161}
->>>>>>> origin/master
