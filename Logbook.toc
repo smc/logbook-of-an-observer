@@ -37,11 +37,16 @@
 \contentsline {section}{റിലയന്‍സിന് ഇനി പമ്പുകള്‍ തുറക്കാം!}{77}
 \contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{80}
 \contentsline {section}{സഹിഷ്ണുത എന്ന മിത്ത്}{82}
-\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{85}
-\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{89}
-\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{93}
-\contentsline {chapter}{\numberline {3}Hospital Logs}{101}
-\contentsline {section}{Hospital Log 1}{101}
-\contentsline {section}{Hospital Log 2}{107}
-\contentsline {section}{Hospital Log 3}{114}
-\contentsline {section}{Hospital Log 4}{117}
+\contentsline {section}{ആവേശം അലകളുയര്‍ത്തിയ ബ്രിട്ടീഷ് ഗ്രാന്‍പ്രീ}{85}
+\contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവ്}{88}
+\contentsline {section}{ബുഡാപെസ്റ്റിലെ തണുപ്പന്‍ കാറോട്ടം}{90}
+\contentsline {section}{അപ്രത്യക്ഷമാകുന്ന എഡിറ്റോറിയല്‍ ഡെസ്ക്}{93}
+\contentsline {section}{പോയിന്റ് നിലയിലെ വ്യത്യാസം കൂട്ടിയ ബെല്‍ജിയന്‍ ഗ്രാന്‍പ്രി}{97}
+\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{100}
+\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{104}
+\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{108}
+\contentsline {chapter}{\numberline {3}Hospital Logs}{115}
+\contentsline {section}{Hospital Log 1}{115}
+\contentsline {section}{Hospital Log 2}{121}
+\contentsline {section}{Hospital Log 3}{128}
+\contentsline {section}{Hospital Log 4}{131}
