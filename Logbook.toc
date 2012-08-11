@@ -12,12 +12,12 @@
 \contentsline {section}{Being Lonely (it is good if it makes you think!!!)}{19}
 \contentsline {section}{നന്ദി മൈക്രോസോഫ്റ്റ്... നന്ദി മമ്മൂട്ടി...}{22}
 \contentsline {section}{ശാസ്ത്രവും മതവും - ചില അഭിപ്രായങ്ങള്‍}{23}
-\contentsline {section}{"ക്രിക്കറ്റ്, ദേശീയത, പണം" - ചില നിരീക്ഷണങ്ങള്‍}{26}
-\contentsline {section}{"Please Read the Offer Document Carefully Before..."}{29}
+\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ചില നിരീക്ഷണങ്ങള്‍}{26}
+\contentsline {section}{Please Read the Offer Document Carefully Before...}{29}
 \contentsline {section}{എന്റെ ചില സാമൂഹ്യശാസ്ത്ര ചിന്തകള്‍}{31}
 \contentsline {section}{ചില സാമൂഹ്യശാസ്ത്ര നിരീക്ഷണങ്ങളും അഭിപ്രായങ്ങളും}{33}
 \contentsline {section}{അഭിനവ് ബിന്ദ്രയും ഒളിമ്പിക് സ്വര്‍ണ്ണവും ചില ചിന്തകളും}{36}
-\contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍,സ്വാതന്ത്ര്യം}{37}
+\contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍, സ്വാതന്ത്ര്യം}{37}
 \contentsline {section}{ക്രിക്കറ്റ്,ദേശീയത,പണം, ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{40}
 \contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{42}
 \contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{44}
