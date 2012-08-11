@@ -22,34 +22,34 @@
 \contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{42}
 \contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{44}
 \contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{46}
-\contentsline {section}{Evaluating FOSS Contributions}{48}
-\contentsline {chapter}{\numberline {2}മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ പോര്‍ട്ടലില്‍ നിന്നും}{51}
-\contentsline {section}{കാറോട്ടത്തിന്റെ മാസ്മരികത: ഫോര്‍മുല വണ്‍}{51}
-\contentsline {section}{ക്രിക്കറ്റ് കുടത്തിലെ ഭൂതം}{53}
-\contentsline {section}{അംബാനി മുതല്‍ മല്യ വരെ}{55}
-\contentsline {section}{കുഞ്ഞന്‍ ടീമുകളുടെ ബിസിനസ് മോഡല്‍}{58}
-\contentsline {section}{ഐപിഎല്‍ ആഫ്റ്റര്‍ മാച്ച് പാര്‍ട്ടി}{61}
-\contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിന് തുടക്കം}{63}
-\contentsline {section}{അപകടങ്ങളുടെ മോണ്ടേകാര്‍ലോ}{65}
-\contentsline {section}{തന്ത്രങ്ങളുടെ ഇസ്താംബൂള്‍}{67}
-\contentsline {section}{ടയറുകള്‍ കളിനിയന്ത്രിച്ച കാനഡ ഗ്രാന്‍പ്രി}{70}
-\contentsline {section}{ബുദ്ധിജീവികളുടെ സ്വത്വപ്രതിസന്ധി}{73}
-\contentsline {section}{റിലയന്‍സിന് ഇനി പമ്പുകള്‍ തുറക്കാം!}{77}
-\contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{80}
-\contentsline {section}{സഹിഷ്ണുത എന്ന മിത്ത്}{82}
-\contentsline {section}{ആവേശം അലകളുയര്‍ത്തിയ ബ്രിട്ടീഷ് ഗ്രാന്‍പ്രീ}{85}
-\contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവ്}{88}
-\contentsline {section}{ബുഡാപെസ്റ്റിലെ തണുപ്പന്‍ കാറോട്ടം}{90}
-\contentsline {section}{അപ്രത്യക്ഷമാകുന്ന എഡിറ്റോറിയല്‍ ഡെസ്ക്}{93}
-\contentsline {section}{പോയിന്റ് നിലയിലെ വ്യത്യാസം കൂട്ടിയ ബെല്‍ജിയന്‍ ഗ്രാന്‍പ്രി}{97}
-\contentsline {section}{ആസ്റ്റെറിക്സിന്റെ സാഹസിക കഥകള്‍}{100}
-\contentsline {section}{ഫോര്‍മുല വണ്‍ ഇന്ത്യയിലെത്തുമ്പോള്‍}{104}
-\contentsline {section}{തലമുടിയെക്കുറിച്ച് ഒരുപന്യാസം}{106}
-\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{109}
-\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{113}
-\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{117}
-\contentsline {chapter}{\numberline {3}Hospital Logs}{125}
-\contentsline {section}{Hospital Log 1}{125}
-\contentsline {section}{Hospital Log 2}{131}
-\contentsline {section}{Hospital Log 3}{138}
-\contentsline {section}{Hospital Log 4}{141}
+\contentsline {section}{Evaluating FOSS Contributions}{49}
+\contentsline {chapter}{\numberline {2}മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ പോര്‍ട്ടലില്‍ നിന്നും}{53}
+\contentsline {section}{കാറോട്ടത്തിന്റെ മാസ്മരികത: ഫോര്‍മുല വണ്‍}{53}
+\contentsline {section}{ക്രിക്കറ്റ് കുടത്തിലെ ഭൂതം}{55}
+\contentsline {section}{അംബാനി മുതല്‍ മല്യ വരെ}{57}
+\contentsline {section}{കുഞ്ഞന്‍ ടീമുകളുടെ ബിസിനസ് മോഡല്‍}{60}
+\contentsline {section}{ഐപിഎല്‍ ആഫ്റ്റര്‍ മാച്ച് പാര്‍ട്ടി}{63}
+\contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിന് തുടക്കം}{65}
+\contentsline {section}{അപകടങ്ങളുടെ മോണ്ടേകാര്‍ലോ}{67}
+\contentsline {section}{തന്ത്രങ്ങളുടെ ഇസ്താംബൂള്‍}{70}
+\contentsline {section}{ടയറുകള്‍ കളിനിയന്ത്രിച്ച കാനഡ ഗ്രാന്‍പ്രി}{73}
+\contentsline {section}{ബുദ്ധിജീവികളുടെ സ്വത്വപ്രതിസന്ധി}{76}
+\contentsline {section}{റിലയന്‍സിന് ഇനി പമ്പുകള്‍ തുറക്കാം!}{80}
+\contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{83}
+\contentsline {section}{സഹിഷ്ണുത എന്ന മിത്ത്}{85}
+\contentsline {section}{ആവേശം അലകളുയര്‍ത്തിയ ബ്രിട്ടീഷ് ഗ്രാന്‍പ്രീ}{88}
+\contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവ്}{91}
+\contentsline {section}{ബുഡാപെസ്റ്റിലെ തണുപ്പന്‍ കാറോട്ടം}{93}
+\contentsline {section}{അപ്രത്യക്ഷമാകുന്ന എഡിറ്റോറിയല്‍ ഡെസ്ക്}{96}
+\contentsline {section}{പോയിന്റ് നിലയിലെ വ്യത്യാസം കൂട്ടിയ ബെല്‍ജിയന്‍ ഗ്രാന്‍പ്രി}{100}
+\contentsline {section}{ആസ്റ്റെറിക്സിന്റെ സാഹസിക കഥകള്‍}{103}
+\contentsline {section}{ഫോര്‍മുല വണ്‍ ഇന്ത്യയിലെത്തുമ്പോള്‍}{107}
+\contentsline {section}{തലമുടിയെക്കുറിച്ച് ഒരുപന്യാസം}{109}
+\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{112}
+\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{116}
+\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{120}
+\contentsline {chapter}{\numberline {3}Hospital Logs}{127}
+\contentsline {section}{Hospital Log 1}{127}
+\contentsline {section}{Hospital Log 2}{133}
+\contentsline {section}{Hospital Log 3}{140}
+\contentsline {section}{Hospital Log 4}{143}
