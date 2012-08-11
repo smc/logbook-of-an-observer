@@ -36,11 +36,12 @@
 \contentsline {section}{ബുദ്ധിജീവികളുടെ സ്വത്വപ്രതിസന്ധി}{73}
 \contentsline {section}{റിലയന്‍സിന് ഇനി പമ്പുകള്‍ തുറക്കാം!}{77}
 \contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{80}
-\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{82}
-\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{86}
-\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{90}
-\contentsline {chapter}{\numberline {3}Hospital Logs}{97}
-\contentsline {section}{Hospital Log 1}{97}
-\contentsline {section}{Hospital Log 2}{103}
-\contentsline {section}{Hospital Log 3}{110}
-\contentsline {section}{Hospital Log 4}{113}
+\contentsline {section}{സഹിഷ്ണുത എന്ന മിത്ത്}{82}
+\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{85}
+\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{89}
+\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{93}
+\contentsline {chapter}{\numberline {3}Hospital Logs}{101}
+\contentsline {section}{Hospital Log 1}{101}
+\contentsline {section}{Hospital Log 2}{107}
+\contentsline {section}{Hospital Log 3}{114}
+\contentsline {section}{Hospital Log 4}{117}
