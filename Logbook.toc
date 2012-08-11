@@ -1,0 +1,46 @@
+\contentsline {section}{ജീവിക്കുവാനുള്ള കാരണങ്ങള്‍}{1}
+\contentsline {section}{Anivar's email to Swathanthra Malayalam Computing}{6}
+\contentsline {chapter}{\numberline {1}Blog Posts}{7}
+\contentsline {section}{My First Post}{7}
+\contentsline {section}{Politics in campus: the need of time}{8}
+\contentsline {section}{മൊബൈലും വിദ്യാര്‍ത്ഥിയും}{9}
+\contentsline {section}{സാരിയെക്കുറിച്ച് എന്റെ വിനീത അഭിപ്രായം}{11}
+\contentsline {section}{സ്വതന്ത്ര സോഫ്റ്റ്‌വെയര്‍ - ചില നിരീക്ഷണങ്ങള്‍}{12}
+\contentsline {section}{Account of a campus gang war!!!}{14}
+\contentsline {section}{മലയാളിയുടെ പെണ്‍കാഴ്ചയെപ്പറ്റി...}{16}
+\contentsline {section}{സോഫ്റ്റ്‌വെയര്‍ സ്വാതന്ത്ര്യം}{17}
+\contentsline {section}{Being Lonely (it is good if it makes you think!!!)}{19}
+\contentsline {section}{നന്ദി മൈക്രോസോഫ്റ്റ്... നന്ദി മമ്മൂട്ടി...}{22}
+\contentsline {section}{ശാസ്ത്രവും മതവും - ചില അഭിപ്രായങ്ങള്‍}{23}
+\contentsline {section}{"ക്രിക്കറ്റ്, ദേശീയത, പണം" - ചില നിരീക്ഷണങ്ങള്‍}{26}
+\contentsline {section}{"Please Read the Offer Document Carefully Before..."}{29}
+\contentsline {section}{എന്റെ ചില സാമൂഹ്യശാസ്ത്ര ചിന്തകള്‍}{31}
+\contentsline {section}{ചില സാമൂഹ്യശാസ്ത്ര നിരീക്ഷണങ്ങളും അഭിപ്രായങ്ങളും}{33}
+\contentsline {section}{അഭിനവ് ബിന്ദ്രയും ഒളിമ്പിക് സ്വര്‍ണ്ണവും ചില ചിന്തകളും}{36}
+\contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍,സ്വാതന്ത്ര്യം}{37}
+\contentsline {section}{ക്രിക്കറ്റ്,ദേശീയത,പണം, ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{40}
+\contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{42}
+\contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{44}
+\contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{46}
+\contentsline {section}{Evaluating FOSS Contributions}{48}
+\contentsline {chapter}{\numberline {2}മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ പോര്‍ട്ടലില്‍ നിന്നും}{51}
+\contentsline {section}{കാറോട്ടത്തിന്റെ മാസ്മരികത: ഫോര്‍മുല വണ്‍}{51}
+\contentsline {section}{ക്രിക്കറ്റ് കുടത്തിലെ ഭൂതം}{53}
+\contentsline {section}{അംബാനി മുതല്‍ മല്യ വരെ}{55}
+\contentsline {section}{കുഞ്ഞന്‍ ടീമുകളുടെ ബിസിനസ് മോഡല്‍}{58}
+\contentsline {section}{ഐപിഎല്‍ ആഫ്റ്റര്‍ മാച്ച് പാര്‍ട്ടി}{61}
+\contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിന് തുടക്കം}{63}
+\contentsline {section}{അപകടങ്ങളുടെ മോണ്ടേകാര്‍ലോ}{65}
+\contentsline {section}{തന്ത്രങ്ങളുടെ ഇസ്താംബൂള്‍}{67}
+\contentsline {section}{ടയറുകള്‍ കളിനിയന്ത്രിച്ച കാനഡ ഗ്രാന്‍പ്രി}{70}
+\contentsline {section}{ബുദ്ധിജീവികളുടെ സ്വത്വപ്രതിസന്ധി}{73}
+\contentsline {section}{റിലയന്‍സിന് ഇനി പമ്പുകള്‍ തുറക്കാം!}{77}
+\contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{80}
+\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{82}
+\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{86}
+\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{90}
+\contentsline {chapter}{\numberline {3}Hospital Logs}{97}
+\contentsline {section}{Hospital Log 1}{97}
+\contentsline {section}{Hospital Log 2}{103}
+\contentsline {section}{Hospital Log 3}{110}
+\contentsline {section}{Hospital Log 4}{113}
