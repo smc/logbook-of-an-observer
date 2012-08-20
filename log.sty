@@ -16,7 +16,6 @@
 \usepackage{url}
 \usepackage{graphicx}
 
-
 \pagestyle{fancy}
 \fancyhead{}
 \fancyfoot{}
@@ -31,10 +30,9 @@
 \sloppy
 
 
+\newcommand{\secstar}[1]{\cleardoublepage\phantomsection\section*{\addcontentsline{toc}{section}{#1}\centering #1}}
 
-
-\newcommand{\secstar}[1]{\section*{\addcontentsline{toc}{section}{#1}\centering #1}}
-
+\newfontfamily\engtext{Charis SIL}
 
 \usepackage{titlesec}
 \titleformat{\chapter}[display]

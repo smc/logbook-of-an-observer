@@ -1,55 +1,55 @@
-\contentsline {section}{ജീവിക്കുവാനുള്ള കാരണങ്ങള്‍}{1}
-\contentsline {section}{Anivar's email to Swathanthra Malayalam Computing}{6}
-\contentsline {chapter}{\numberline {1}Blog Posts}{7}
-\contentsline {section}{My First Post}{7}
-\contentsline {section}{Politics in campus: the need of time}{8}
-\contentsline {section}{മൊബൈലും വിദ്യാര്‍ത്ഥിയും}{9}
-\contentsline {section}{സാരിയെക്കുറിച്ച് എന്റെ വിനീത അഭിപ്രായം}{11}
-\contentsline {section}{സ്വതന്ത്ര സോഫ്റ്റ്‌വെയര്‍ - ചില നിരീക്ഷണങ്ങള്‍}{12}
-\contentsline {section}{Account of a campus gang war!!!}{14}
-\contentsline {section}{മലയാളിയുടെ പെണ്‍കാഴ്ചയെപ്പറ്റി...}{16}
-\contentsline {section}{സോഫ്റ്റ്‌വെയര്‍ സ്വാതന്ത്ര്യം}{17}
-\contentsline {section}{Being Lonely (it is good if it makes you think!!!)}{19}
-\contentsline {section}{നന്ദി മൈക്രോസോഫ്റ്റ്... നന്ദി മമ്മൂട്ടി...}{22}
-\contentsline {section}{ശാസ്ത്രവും മതവും - ചില അഭിപ്രായങ്ങള്‍}{23}
-\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ചില നിരീക്ഷണങ്ങള്‍}{26}
-\contentsline {section}{Please Read the Offer Document Carefully Before...}{29}
-\contentsline {section}{എന്റെ ചില സാമൂഹ്യശാസ്ത്ര ചിന്തകള്‍}{31}
-\contentsline {section}{ചില സാമൂഹ്യശാസ്ത്ര നിരീക്ഷണങ്ങളും അഭിപ്രായങ്ങളും}{33}
-\contentsline {section}{അഭിനവ് ബിന്ദ്രയും ഒളിമ്പിക് സ്വര്‍ണ്ണവും ചില ചിന്തകളും}{36}
-\contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍, സ്വാതന്ത്ര്യം}{37}
-\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം, ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{40}
-\contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{42}
-\contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{44}
-\contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{46}
-\contentsline {section}{Evaluating FOSS Contributions}{49}
-\contentsline {chapter}{\numberline {2}മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ പോര്‍ട്ടലില്‍ നിന്നും}{53}
-\contentsline {section}{കാറോട്ടത്തിന്റെ മാസ്മരികത: ഫോര്‍മുല വണ്‍}{53}
-\contentsline {section}{ക്രിക്കറ്റ് കുടത്തിലെ ഭൂതം}{55}
-\contentsline {section}{അംബാനി മുതല്‍ മല്യ വരെ}{57}
-\contentsline {section}{കുഞ്ഞന്‍ ടീമുകളുടെ ബിസിനസ് മോഡല്‍}{60}
-\contentsline {section}{ഐപിഎല്‍ ആഫ്റ്റര്‍ മാച്ച് പാര്‍ട്ടി}{63}
-\contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിന് തുടക്കം}{65}
-\contentsline {section}{അപകടങ്ങളുടെ മോണ്ടേകാര്‍ലോ}{67}
-\contentsline {section}{തന്ത്രങ്ങളുടെ ഇസ്താംബൂള്‍}{70}
-\contentsline {section}{ടയറുകള്‍ കളിനിയന്ത്രിച്ച കാനഡ ഗ്രാന്‍പ്രി}{73}
-\contentsline {section}{ബുദ്ധിജീവികളുടെ സ്വത്വപ്രതിസന്ധി}{76}
-\contentsline {section}{റിലയന്‍സിന് ഇനി പമ്പുകള്‍ തുറക്കാം!}{80}
-\contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{83}
-\contentsline {section}{സഹിഷ്ണുത എന്ന മിത്ത്}{85}
-\contentsline {section}{ആവേശം അലകളുയര്‍ത്തിയ ബ്രിട്ടീഷ് ഗ്രാന്‍പ്രീ}{88}
-\contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവ്}{91}
-\contentsline {section}{ബുഡാപെസ്റ്റിലെ തണുപ്പന്‍ കാറോട്ടം}{93}
-\contentsline {section}{അപ്രത്യക്ഷമാകുന്ന എഡിറ്റോറിയല്‍ ഡെസ്ക്}{96}
-\contentsline {section}{പോയിന്റ് നിലയിലെ വ്യത്യാസം കൂട്ടിയ ബെല്‍ജിയന്‍ ഗ്രാന്‍പ്രി}{100}
-\contentsline {section}{ആസ്റ്റെറിക്സിന്റെ സാഹസിക കഥകള്‍}{103}
-\contentsline {section}{ഫോര്‍മുല വണ്‍ ഇന്ത്യയിലെത്തുമ്പോള്‍}{107}
-\contentsline {section}{തലമുടിയെക്കുറിച്ച് ഒരുപന്യാസം}{109}
-\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{112}
-\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{116}
-\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{120}
-\contentsline {chapter}{\numberline {3}Hospital Logs}{127}
-\contentsline {section}{Hospital Log 1}{127}
-\contentsline {section}{Hospital Log 2}{133}
-\contentsline {section}{Hospital Log 3}{140}
-\contentsline {section}{Hospital Log 4}{143}
+\contentsline {section}{ജീവിക്കുവാനുള്ള കാരണങ്ങള്‍}{1}{section*.2}
+\contentsline {section}{Anivar's email to Swathanthra Malayalam Computing}{7}{section*.3}
+\contentsline {chapter}{\numberline {1}Blog Posts}{9}{chapter.1}
+\contentsline {section}{My First Post}{11}{section*.4}
+\contentsline {section}{Politics in campus: the need of time}{13}{section*.5}
+\contentsline {section}{മൊബൈലും വിദ്യാര്‍ത്ഥിയും}{15}{section*.6}
+\contentsline {section}{സാരിയെക്കുറിച്ച് എന്റെ വിനീത അഭിപ്രായം}{17}{section*.7}
+\contentsline {section}{സ്വതന്ത്ര സോഫ്റ്റ്‌വെയര്‍ - ചില നിരീക്ഷണങ്ങള്‍}{19}{section*.8}
+\contentsline {section}{Account of a campus gang war!!!}{21}{section*.9}
+\contentsline {section}{മലയാളിയുടെ പെണ്‍കാഴ്ചയെപ്പറ്റി...}{23}{section*.10}
+\contentsline {section}{സോഫ്റ്റ്‌വെയര്‍ സ്വാതന്ത്ര്യം}{25}{section*.11}
+\contentsline {section}{Being Lonely (it is good if it makes you think!!!)}{27}{section*.12}
+\contentsline {section}{നന്ദി മൈക്രോസോഫ്റ്റ്... നന്ദി മമ്മൂട്ടി...}{31}{section*.13}
+\contentsline {section}{ശാസ്ത്രവും മതവും - ചില അഭിപ്രായങ്ങള്‍}{33}{section*.14}
+\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ചില നിരീക്ഷണങ്ങള്‍}{37}{section*.15}
+\contentsline {section}{Please Read the Offer Document Carefully Before...}{41}{section*.16}
+\contentsline {section}{എന്റെ ചില സാമൂഹ്യശാസ്ത്ര ചിന്തകള്‍}{43}{section*.17}
+\contentsline {section}{ചില സാമൂഹ്യശാസ്ത്ര നിരീക്ഷണങ്ങളും അഭിപ്രായങ്ങളും}{45}{section*.18}
+\contentsline {section}{അഭിനവ് ബിന്ദ്രയും ഒളിമ്പിക് സ്വര്‍ണ്ണവും ചില ചിന്തകളും}{49}{section*.19}
+\contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍, സ്വാതന്ത്ര്യം}{51}{section*.20}
+\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം, ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{55}{section*.21}
+\contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{57}{section*.22}
+\contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{59}{section*.23}
+\contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{63}{section*.24}
+\contentsline {section}{Evaluating FOSS Contributions}{67}{section*.25}
+\contentsline {chapter}{\numberline {2}മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ പോര്‍ട്ടലില്‍ നിന്നും}{71}{chapter.2}
+\contentsline {section}{കാറോട്ടത്തിന്റെ മാസ്മരികത: ഫോര്‍മുല വണ്‍}{73}{section*.26}
+\contentsline {section}{ക്രിക്കറ്റ് കുടത്തിലെ ഭൂതം}{75}{section*.27}
+\contentsline {section}{അംബാനി മുതല്‍ മല്യ വരെ}{77}{section*.28}
+\contentsline {section}{കുഞ്ഞന്‍ ടീമുകളുടെ ബിസിനസ് മോഡല്‍}{81}{section*.29}
+\contentsline {section}{ഐപിഎല്‍ ആഫ്റ്റര്‍ മാച്ച് പാര്‍ട്ടി}{85}{section*.30}
+\contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിന് തുടക്കം}{87}{section*.31}
+\contentsline {section}{അപകടങ്ങളുടെ മോണ്ടേകാര്‍ലോ}{89}{section*.32}
+\contentsline {section}{തന്ത്രങ്ങളുടെ ഇസ്താംബൂള്‍}{93}{section*.33}
+\contentsline {section}{ടയറുകള്‍ കളിനിയന്ത്രിച്ച കാനഡ ഗ്രാന്‍പ്രി}{97}{section*.34}
+\contentsline {section}{ബുദ്ധിജീവികളുടെ സ്വത്വപ്രതിസന്ധി}{101}{section*.35}
+\contentsline {section}{റിലയന്‍സിന് ഇനി പമ്പുകള്‍ തുറക്കാം!}{105}{section*.36}
+\contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{109}{section*.37}
+\contentsline {section}{സഹിഷ്ണുത എന്ന മിത്ത്}{111}{section*.38}
+\contentsline {section}{ആവേശം അലകളുയര്‍ത്തിയ ബ്രിട്ടീഷ് ഗ്രാന്‍പ്രീ}{115}{section*.39}
+\contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവ്}{119}{section*.40}
+\contentsline {section}{ബുഡാപെസ്റ്റിലെ തണുപ്പന്‍ കാറോട്ടം}{121}{section*.41}
+\contentsline {section}{അപ്രത്യക്ഷമാകുന്ന എഡിറ്റോറിയല്‍ ഡെസ്ക്}{125}{section*.42}
+\contentsline {section}{പോയിന്റ് നിലയിലെ വ്യത്യാസം കൂട്ടിയ ബെല്‍ജിയന്‍ ഗ്രാന്‍പ്രി}{129}{section*.43}
+\contentsline {section}{ആസ്റ്റെറിക്സിന്റെ സാഹസിക കഥകള്‍}{133}{section*.44}
+\contentsline {section}{ഫോര്‍മുല വണ്‍ ഇന്ത്യയിലെത്തുമ്പോള്‍}{137}{section*.45}
+\contentsline {section}{തലമുടിയെക്കുറിച്ച് ഒരുപന്യാസം}{139}{section*.46}
+\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{143}{section*.47}
+\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{147}{section*.48}
+\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{151}{section*.49}
+\contentsline {chapter}{\numberline {3}Hospital Logs}{159}{chapter.3}
+\contentsline {section}{Hospital Log 1}{161}{section*.50}
+\contentsline {section}{Hospital Log 2}{169}{section*.51}
+\contentsline {section}{Hospital Log 3}{179}{section*.52}
+\contentsline {section}{Hospital Log 4}{183}{section*.53}
