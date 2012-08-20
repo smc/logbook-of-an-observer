@@ -6,12 +6,17 @@
   bottom=0.75in,
   paperwidth=13.970cm,
   paperheight=21.589cm]{geometry}
-\usepackage{fontspec}
 \usepackage{xltxtra}
-\usepackage[meera]{mlym}
+\usepackage{fontspec}
 \usepackage{fancyhdr}
 \usepackage[final]{microtype}
+
+% Use Malayalam Hyphenation with Polyglossia
 \usepackage{polyglossia}
+\setdefaultlanguage{malayalam}
+\setmainfont[Script=Malayalam]{Meera}
+\newfontfamily\malayalamfonttt{Latin Modern Mono} %Suppress error with \url fixed width fonts
+
 \usepackage{framed}
 \usepackage{url}
 \usepackage{graphicx}
