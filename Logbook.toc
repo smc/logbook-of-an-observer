@@ -1,86 +1,296 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ജീവിക്കുവാനുള്ള കാരണങ്ങള്‍}{1}{section*.2}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{Anivar's email to Swathanthra Malayalam Computing}{7}{section*.3}
 \select@language {english}
 \select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {chapter}{\numberline {1}Blog Posts}{9}{chapter.1}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{My First Post}{11}{section*.4}
+\select@language {english}
+\select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
 \contentsline {section}{Politics in campus: the need of time}{13}{section*.5}
 \select@language {english}
 \select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{മൊബൈലും വിദ്യാര്‍ത്ഥിയും}{15}{section*.6}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{സാരിയെക്കുറിച്ച് എന്റെ വിനീത അഭിപ്രായം}{17}{section*.7}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{സ്വതന്ത്ര സോഫ്റ്റ്‌വെയര്‍ - ചില നിരീക്ഷണങ്ങള്‍}{19}{section*.8}
+\select@language {english}
+\select@language {english}
 \contentsline {section}{Account of a campus gang war!!!}{21}{section*.9}
 \select@language {english}
 \select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{മലയാളിയുടെ പെണ്‍കാഴ്ചയെപ്പറ്റി...}{23}{section*.10}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{സോഫ്റ്റ്‌വെയര്‍ സ്വാതന്ത്ര്യം}{25}{section*.11}
+\select@language {english}
+\select@language {english}
 \contentsline {section}{Being Lonely (it is good if it makes you think!!!)}{27}{section*.12}
+\select@language {english}
+\select@language {english}
+\select@language {malayalam}
+\select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
 \contentsline {section}{നന്ദി മൈക്രോസോഫ്റ്റ്... നന്ദി മമ്മൂട്ടി...}{31}{section*.13}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ശാസ്ത്രവും മതവും - ചില അഭിപ്രായങ്ങള്‍}{33}{section*.14}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ചില നിരീക്ഷണങ്ങള്‍}{37}{section*.15}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {english}
 \contentsline {section}{Please Read the Offer Document Carefully Before...}{41}{section*.16}
 \select@language {english}
 \select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{എന്റെ ചില സാമൂഹ്യശാസ്ത്ര ചിന്തകള്‍}{43}{section*.17}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ചില സാമൂഹ്യശാസ്ത്ര നിരീക്ഷണങ്ങളും അഭിപ്രായങ്ങളും}{47}{section*.18}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{അഭിനവ് ബിന്ദ്രയും ഒളിമ്പിക് സ്വര്‍ണ്ണവും ചില ചിന്തകളും}{51}{section*.19}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍, സ്വാതന്ത്ര്യം}{53}{section*.20}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം, ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{57}{section*.21}
+\select@language {english}
+\select@language {english}
 \contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{59}{section*.22}
 \select@language {english}
 \select@language {malayalam}
+\select@language {english}
+\select@language {english}
 \contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{61}{section*.23}
 \select@language {english}
-\select@language {malayalam}
-\contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{65}{section*.24}
 \select@language {english}
 \select@language {malayalam}
+\select@language {malayalam}
+\select@language {english}
+\select@language {english}
+\contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{65}{section*.24}
+\select@language {english}
+\select@language {english}
+\select@language {malayalam}
+\select@language {malayalam}
+\select@language {english}
+\select@language {english}
 \contentsline {section}{Evaluating FOSS Contributions}{69}{section*.25}
+\select@language {english}
+\select@language {english}
+\select@language {malayalam}
+\select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
 \contentsline {chapter}{\numberline {2}മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ പോര്‍ട്ടലില്‍ നിന്നും}{73}{chapter.2}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{കാറോട്ടത്തിന്റെ മാസ്മരികത: ഫോര്‍മുല വണ്‍}{75}{section*.26}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ക്രിക്കറ്റ് കുടത്തിലെ ഭൂതം}{77}{section*.27}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{അംബാനി മുതല്‍ മല്യ വരെ}{81}{section*.28}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{കുഞ്ഞന്‍ ടീമുകളുടെ ബിസിനസ് മോഡല്‍}{85}{section*.29}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ഐപിഎല്‍ ആഫ്റ്റര്‍ മാച്ച് പാര്‍ട്ടി}{89}{section*.30}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിന് തുടക്കം}{93}{section*.31}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{അപകടങ്ങളുടെ മോണ്ടേകാര്‍ലോ}{95}{section*.32}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{തന്ത്രങ്ങളുടെ ഇസ്താംബൂള്‍}{99}{section*.33}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ടയറുകള്‍ കളിനിയന്ത്രിച്ച കാനഡ ഗ്രാന്‍പ്രി}{103}{section*.34}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ബുദ്ധിജീവികളുടെ സ്വത്വപ്രതിസന്ധി}{107}{section*.35}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{റിലയന്‍സിന് ഇനി പമ്പുകള്‍ തുറക്കാം!}{113}{section*.36}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{117}{section*.37}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{സഹിഷ്ണുത എന്ന മിത്ത്}{121}{section*.38}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ആവേശം അലകളുയര്‍ത്തിയ ബ്രിട്ടീഷ് ഗ്രാന്‍പ്രീ}{125}{section*.39}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവ്}{129}{section*.40}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ബുഡാപെസ്റ്റിലെ തണുപ്പന്‍ കാറോട്ടം}{133}{section*.41}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{അപ്രത്യക്ഷമാകുന്ന എഡിറ്റോറിയല്‍ ഡെസ്ക്}{137}{section*.42}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{പോയിന്റ് നിലയിലെ വ്യത്യാസം കൂട്ടിയ ബെല്‍ജിയന്‍ ഗ്രാന്‍പ്രി}{143}{section*.43}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ആസ്റ്റെറിക്സിന്റെ സാഹസിക കഥകള്‍}{147}{section*.44}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ഫോര്‍മുല വണ്‍ ഇന്ത്യയിലെത്തുമ്പോള്‍}{153}{section*.45}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{തലമുടിയെക്കുറിച്ച് ഒരുപന്യാസം}{157}{section*.46}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{161}{section*.47}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{165}{section*.48}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{171}{section*.49}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {chapter}{\numberline {3}Hospital Logs}{179}{chapter.3}
+\select@language {english}
+\select@language {english}
 \contentsline {section}{Hospital Log 1}{181}{section*.50}
 \select@language {english}
-\select@language {malayalam}
-\contentsline {section}{Hospital Log 2}{187}{section*.51}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{Hospital Log 3}{195}{section*.52}
+\select@language {malayalam}
+\select@language {english}
+\select@language {english}
+\contentsline {section}{Hospital Log 2}{189}{section*.51}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{Hospital Log 4}{199}{section*.53}
+\select@language {malayalam}
+\select@language {english}
+\select@language {english}
+\contentsline {section}{Hospital Log 3}{199}{section*.52}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {english}
+\contentsline {section}{Hospital Log 4}{203}{section*.53}
 \select@language {english}
 \select@language {malayalam}
