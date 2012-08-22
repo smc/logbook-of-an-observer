@@ -1,28 +1,51 @@
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{ജീവിക്കുവാനുള്ള കാരണങ്ങള്‍}{1}{section*.2}
 \contentsline {section}{Anivar's email to Swathanthra Malayalam Computing}{7}{section*.3}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {chapter}{\numberline {1}Blog Posts}{9}{chapter.1}
 \contentsline {section}{My First Post}{11}{section*.4}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{Politics in campus: the need of time}{13}{section*.5}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{മൊബൈലും വിദ്യാര്‍ത്ഥിയും}{15}{section*.6}
 \contentsline {section}{സാരിയെക്കുറിച്ച് എന്റെ വിനീത അഭിപ്രായം}{17}{section*.7}
 \contentsline {section}{സ്വതന്ത്ര സോഫ്റ്റ്‌വെയര്‍ - ചില നിരീക്ഷണങ്ങള്‍}{19}{section*.8}
 \contentsline {section}{Account of a campus gang war!!!}{21}{section*.9}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{മലയാളിയുടെ പെണ്‍കാഴ്ചയെപ്പറ്റി...}{23}{section*.10}
 \contentsline {section}{സോഫ്റ്റ്‌വെയര്‍ സ്വാതന്ത്ര്യം}{25}{section*.11}
 \contentsline {section}{Being Lonely (it is good if it makes you think!!!)}{27}{section*.12}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{നന്ദി മൈക്രോസോഫ്റ്റ്... നന്ദി മമ്മൂട്ടി...}{31}{section*.13}
 \contentsline {section}{ശാസ്ത്രവും മതവും - ചില അഭിപ്രായങ്ങള്‍}{33}{section*.14}
 \contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ചില നിരീക്ഷണങ്ങള്‍}{37}{section*.15}
 \contentsline {section}{Please Read the Offer Document Carefully Before...}{41}{section*.16}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{എന്റെ ചില സാമൂഹ്യശാസ്ത്ര ചിന്തകള്‍}{43}{section*.17}
 \contentsline {section}{ചില സാമൂഹ്യശാസ്ത്ര നിരീക്ഷണങ്ങളും അഭിപ്രായങ്ങളും}{47}{section*.18}
 \contentsline {section}{അഭിനവ് ബിന്ദ്രയും ഒളിമ്പിക് സ്വര്‍ണ്ണവും ചില ചിന്തകളും}{51}{section*.19}
 \contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍, സ്വാതന്ത്ര്യം}{53}{section*.20}
 \contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം, ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{57}{section*.21}
 \contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{59}{section*.22}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{61}{section*.23}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{65}{section*.24}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {section}{Evaluating FOSS Contributions}{69}{section*.25}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {chapter}{\numberline {2}മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ പോര്‍ട്ടലില്‍ നിന്നും}{73}{chapter.2}
 \contentsline {section}{കാറോട്ടത്തിന്റെ മാസ്മരികത: ഫോര്‍മുല വണ്‍}{75}{section*.26}
 \contentsline {section}{ക്രിക്കറ്റ് കുടത്തിലെ ഭൂതം}{77}{section*.27}
@@ -50,6 +73,14 @@
 \contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{171}{section*.49}
 \contentsline {chapter}{\numberline {3}Hospital Logs}{179}{chapter.3}
 \contentsline {section}{Hospital Log 1}{181}{section*.50}
-\contentsline {section}{Hospital Log 2}{189}{section*.51}
-\contentsline {section}{Hospital Log 3}{199}{section*.52}
-\contentsline {section}{Hospital Log 4}{203}{section*.53}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{Hospital Log 2}{187}{section*.51}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{Hospital Log 3}{195}{section*.52}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{Hospital Log 4}{199}{section*.53}
+\select@language {english}
+\select@language {malayalam}
