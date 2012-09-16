@@ -37,7 +37,7 @@
 \contentsline {section}{മൊബൈലും വിദ്യാര്‍ത്ഥിയും}{15}{section*.6}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{സാരിയെക്കുറിച്ച് എന്റെ വിനീത അഭിപ്രായം}{17}{section*.7}
+\contentsline {section}{സാരിയെക്കുറിച്ചു് എന്റെ വിനീത അഭിപ്രായം}{17}{section*.7}
 \select@language {english}
 \select@language {malayalam}
 \contentsline {section}{സ്വതന്ത്ര സോഫ്റ്റ്‌വെയര്‍ - ചില നിരീക്ഷണങ്ങള്‍}{19}{section*.8}
@@ -97,7 +97,7 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം, ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{57}{section*.21}
+\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{57}{section*.21}
 \select@language {english}
 \select@language {english}
 \contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{59}{section*.22}
@@ -152,7 +152,7 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിന് തുടക്കം}{93}{section*.31}
+\contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിനു് തുടക്കം}{93}{section*.31}
 \select@language {english}
 \select@language {malayalam}
 \contentsline {section}{അപകടങ്ങളുടെ മോണ്ടേകാര്‍ലോ}{95}{section*.32}
@@ -177,7 +177,7 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{റിലയന്‍സിന് ഇനി പമ്പുകള്‍ തുറക്കാം!}{113}{section*.36}
+\contentsline {section}{റിലയന്‍സിനു് ഇനി പമ്പുകള്‍ തുറക്കാം!}{113}{section*.36}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
@@ -187,7 +187,7 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{സഹിഷ്ണുത എന്ന മിത്ത്}{121}{section*.38}
+\contentsline {section}{സഹിഷ്ണുത എന്ന മിത്തു്}{121}{section*.38}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
@@ -197,7 +197,7 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവ്}{129}{section*.40}
+\contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവു്}{129}{section*.40}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
@@ -231,12 +231,12 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{തലമുടിയെക്കുറിച്ച് ഒരുപന്യാസം}{157}{section*.46}
+\contentsline {section}{തലമുടിയെക്കുറിച്ചു് ഒരുപന്യാസം}{157}{section*.46}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{സാമൂഹ്യ വിമര്‍ശനത്തെക്കുറിച്ച് }{161}{section*.47}
+\contentsline {section}{സാമൂഹ്യവിമര്‍ശനത്തെക്കുറിച്ചു് }{161}{section*.47}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
@@ -248,7 +248,7 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{എന്തുകൊണ്ട് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{171}{section*.49}
+\contentsline {section}{എന്തുകൊണ്ടു് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{171}{section*.49}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
