@@ -7,185 +7,178 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{ജീവിക്കുവാനുള്ള കാരണങ്ങള്‍}{1}{section*.2}
+\contentsline {chapter}{\numberline {1}ഓര്‍മ്മയിലെ ജിനേഷ്}{1}{chapter.1}
+\contentsline {section}{തെളിഞ്ഞ കാലം}{2}{section*.2}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ജീവിക്കുവാനുള്ള കാരണങ്ങള്‍}{5}{section*.3}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{Anivar's email to Swathanthra Malayalam Computing}{6}{section*.3}
-\select@language {english}
-\select@language {malayalam}
-\select@language {english}
-\select@language {malayalam}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {chapter}{\numberline {1}Blog Posts}{9}{chapter.1}
-\contentsline {section}{My First Post}{10}{section*.4}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{Politics in campus: the need of time}{11}{section*.5}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{മൊബൈലും വിദ്യാര്‍ത്ഥിയും}{12}{section*.6}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{സാരിയെക്കുറിച്ചു് എന്റെ വിനീത അഭിപ്രായം}{14}{section*.7}
-\contentsline {section}{സ്വതന്ത്ര സോഫ്റ്റ്‌വെയര്‍ - ചില നിരീക്ഷണങ്ങള്‍}{15}{section*.8}
-\contentsline {section}{Account of a campus gang war!!!}{17}{section*.9}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{മലയാളിയുടെ പെണ്‍കാഴ്ചയെപ്പറ്റി...}{19}{section*.10}
-\contentsline {section}{സോഫ്റ്റ്‌വെയര്‍ സ്വാതന്ത്ര്യം}{20}{section*.11}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{Being Lonely (it is good if it makes you think!!!)}{22}{section*.12}
-\select@language {english}
-\select@language {english}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{നന്ദി മൈക്രോസോഫ്റ്റ്... നന്ദി മമ്മൂട്ടി...}{25}{section*.13}
-\contentsline {section}{ശാസ്ത്രവും മതവും - ചില അഭിപ്രായങ്ങള്‍}{27}{section*.14}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ചില നിരീക്ഷണങ്ങള്‍}{30}{section*.15}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{Please Read the Offer Document Carefully Before...}{33}{section*.16}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{എന്റെ ചില സാമൂഹ്യശാസ്ത്ര ചിന്തകള്‍}{35}{section*.17}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ചില സാമൂഹ്യശാസ്ത്ര നിരീക്ഷണങ്ങളും അഭിപ്രായങ്ങളും}{38}{section*.18}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{അഭിനവ് ബിന്ദ്രയും ഒളിമ്പിക് സ്വര്‍ണ്ണവും ചില ചിന്തകളും}{41}{section*.19}
-\contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍, സ്വാതന്ത്ര്യം}{43}{section*.20}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{46}{section*.21}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{48}{section*.22}
-\select@language {english}
-\select@language {english}
-\select@language {malayalam}
-\select@language {malayalam}
-\contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{50}{section*.23}
-\select@language {english}
-\select@language {english}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{53}{section*.24}
-\select@language {english}
-\select@language {english}
-\select@language {malayalam}
-\select@language {malayalam}
-\contentsline {section}{Evaluating FOSS Contributions}{56}{section*.25}
-\select@language {english}
-\select@language {english}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {chapter}{\numberline {2}മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ പോര്‍ട്ടലില്‍ നിന്നും}{59}{chapter.2}
-\contentsline {section}{കാറോട്ടത്തിന്റെ മാസ്മരികത: ഫോര്‍മുല വണ്‍}{60}{section*.26}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ക്രിക്കറ്റ് കുടത്തിലെ ഭൂതം}{62}{section*.27}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{അംബാനി മുതല്‍ മല്യ വരെ}{65}{section*.28}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{കുഞ്ഞന്‍ ടീമുകളുടെ ബിസിനസ് മോഡല്‍}{68}{section*.29}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ഐപിഎല്‍ ആഫ്റ്റര്‍ മാച്ച് പാര്‍ട്ടി}{71}{section*.30}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിനു് തുടക്കം}{74}{section*.31}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{അപകടങ്ങളുടെ മോണ്ടേകാര്‍ലോ}{76}{section*.32}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{തന്ത്രങ്ങളുടെ ഇസ്താംബൂള്‍}{79}{section*.33}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ടയറുകള്‍ കളിനിയന്ത്രിച്ച കാനഡ ഗ്രാന്‍പ്രി}{82}{section*.34}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ബുദ്ധിജീവികളുടെ സ്വത്വപ്രതിസന്ധി}{85}{section*.35}
-\select@language {english}
-\select@language {malayalam}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{റിലയന്‍സിനു് ഇനി പമ്പുകള്‍ തുറക്കാം!}{90}{section*.36}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{93}{section*.37}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{സഹിഷ്ണുത എന്ന മിത്തു്}{96}{section*.38}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ആവേശം അലകളുയര്‍ത്തിയ ബ്രിട്ടീഷ് ഗ്രാന്‍പ്രീ}{99}{section*.39}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവു്}{103}{section*.40}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ബുഡാപെസ്റ്റിലെ തണുപ്പന്‍ കാറോട്ടം}{106}{section*.41}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{അപ്രത്യക്ഷമാകുന്ന എഡിറ്റോറിയല്‍ ഡെസ്ക്}{109}{section*.42}
-\select@language {english}
-\select@language {malayalam}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{പോയിന്റ് നിലയിലെ വ്യത്യാസം കൂട്ടിയ ബെല്‍ജിയന്‍ ഗ്രാന്‍പ്രി}{114}{section*.43}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ആസ്റ്റെറിക്സിന്റെ സാഹസിക കഥകള്‍}{117}{section*.44}
-\select@language {english}
-\select@language {malayalam}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ഫോര്‍മുല വണ്‍ ഇന്ത്യയിലെത്തുമ്പോള്‍}{122}{section*.45}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{തലമുടിയെക്കുറിച്ചു് ഒരുപന്യാസം}{125}{section*.46}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{സാമൂഹ്യവിമര്‍ശനത്തെക്കുറിച്ചു് }{129}{section*.47}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{133}{section*.48}
-\select@language {english}
-\select@language {malayalam}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{എന്തുകൊണ്ടു് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{138}{section*.49}
+\contentsline {section}{Anivar's email to Swathanthra Malayalam Computing}{10}{section*.4}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
+\contentsline {chapter}{\numberline {2}Blog Posts}{13}{chapter.2}
+\contentsline {section}{My First Post}{14}{section*.5}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {chapter}{\numberline {3}Hospital Logs}{147}{chapter.3}
-\contentsline {section}{Hospital Log 1}{148}{section*.50}
+\contentsline {section}{Politics in campus: the need of time}{15}{section*.6}
 \select@language {english}
+\select@language {malayalam}
+\contentsline {section}{മൊബൈലും വിദ്യാര്‍ത്ഥിയും}{16}{section*.7}
 \select@language {english}
+\select@language {malayalam}
+\contentsline {section}{സാരിയെക്കുറിച്ചു് എന്റെ വിനീത അഭിപ്രായം}{18}{section*.8}
+\contentsline {section}{സ്വതന്ത്ര സോഫ്റ്റ്‌വെയര്‍ - ചില നിരീക്ഷണങ്ങള്‍}{19}{section*.9}
+\contentsline {section}{Account of a campus gang war!!!}{21}{section*.10}
 \select@language {english}
+\select@language {malayalam}
+\contentsline {section}{മലയാളിയുടെ പെണ്‍കാഴ്ചയെപ്പറ്റി...}{23}{section*.11}
+\contentsline {section}{സോഫ്റ്റ്‌വെയര്‍ സ്വാതന്ത്ര്യം}{24}{section*.12}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{Being Lonely (it is good if it makes you think!!!)}{26}{section*.13}
 \select@language {english}
 \select@language {english}
 \select@language {english}
 \select@language {malayalam}
+\contentsline {section}{നന്ദി മൈക്രോസോഫ്റ്റ്... നന്ദി മമ്മൂട്ടി...}{29}{section*.14}
+\contentsline {section}{ശാസ്ത്രവും മതവും - ചില അഭിപ്രായങ്ങള്‍}{31}{section*.15}
+\select@language {english}
 \select@language {malayalam}
-\contentsline {section}{Hospital Log 2}{155}{section*.51}
+\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ചില നിരീക്ഷണങ്ങള്‍}{34}{section*.16}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{Please Read the Offer Document Carefully Before...}{37}{section*.17}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{എന്റെ ചില സാമൂഹ്യശാസ്ത്ര ചിന്തകള്‍}{39}{section*.18}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ചില സാമൂഹ്യശാസ്ത്ര നിരീക്ഷണങ്ങളും അഭിപ്രായങ്ങളും}{42}{section*.19}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{അഭിനവ് ബിന്ദ്രയും ഒളിമ്പിക് സ്വര്‍ണ്ണവും ചില ചിന്തകളും}{45}{section*.20}
+\contentsline {section}{പിണറായി, വിദ്യാഭ്യാസം, സമൂഹം, മുന്‍വിധികള്‍, സ്വാതന്ത്ര്യം}{47}{section*.21}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ക്രിക്കറ്റ്, ദേശീയത, പണം - ഐ.പി.എല്‍. എതിര്‍ക്കപ്പെടേണമോ?}{50}{section*.22}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{Asus eeepc 1005HA hotkeys and ubuntu lucid}{52}{section*.23}
 \select@language {english}
 \select@language {english}
+\select@language {malayalam}
+\select@language {malayalam}
+\contentsline {section}{Asus eeepc 1005HA and Meego 1.0.1}{54}{section*.24}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{Again on student politics, freedom of expression and interestingly my views about women}{57}{section*.25}
+\select@language {english}
+\select@language {english}
+\select@language {malayalam}
+\select@language {malayalam}
+\contentsline {section}{Evaluating FOSS Contributions}{60}{section*.26}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {chapter}{\numberline {3}മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ പോര്‍ട്ടലില്‍ നിന്നും}{63}{chapter.3}
+\contentsline {section}{കാറോട്ടത്തിന്റെ മാസ്മരികത: ഫോര്‍മുല വണ്‍}{64}{section*.27}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ക്രിക്കറ്റ് കുടത്തിലെ ഭൂതം}{66}{section*.28}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{അംബാനി മുതല്‍ മല്യ വരെ}{69}{section*.29}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{കുഞ്ഞന്‍ ടീമുകളുടെ ബിസിനസ് മോഡല്‍}{72}{section*.30}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ഐപിഎല്‍ ആഫ്റ്റര്‍ മാച്ച് പാര്‍ട്ടി}{75}{section*.31}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{സ്പാനിഷ് ലെഗ്ഗോടെ യൂറോപ്യന്‍ പാദത്തിനു് തുടക്കം}{78}{section*.32}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{അപകടങ്ങളുടെ മോണ്ടേകാര്‍ലോ}{80}{section*.33}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{തന്ത്രങ്ങളുടെ ഇസ്താംബൂള്‍}{83}{section*.34}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ടയറുകള്‍ കളിനിയന്ത്രിച്ച കാനഡ ഗ്രാന്‍പ്രി}{86}{section*.35}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ബുദ്ധിജീവികളുടെ സ്വത്വപ്രതിസന്ധി}{89}{section*.36}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{റിലയന്‍സിനു് ഇനി പമ്പുകള്‍ തുറക്കാം!}{94}{section*.37}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{വലന്‍സിയയിലെ അപകടവും വെബ്ബറിന്റെ രക്ഷപ്പെടലും}{97}{section*.38}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{സഹിഷ്ണുത എന്ന മിത്തു്}{100}{section*.39}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ആവേശം അലകളുയര്‍ത്തിയ ബ്രിട്ടീഷ് ഗ്രാന്‍പ്രീ}{103}{section*.40}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ജര്‍മന്‍ ഗ്രാന്‍പ്രീയില്‍ ഫെറാരിയുടെ തിരിച്ചുവരവു്}{107}{section*.41}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ബുഡാപെസ്റ്റിലെ തണുപ്പന്‍ കാറോട്ടം}{110}{section*.42}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{അപ്രത്യക്ഷമാകുന്ന എഡിറ്റോറിയല്‍ ഡെസ്ക്}{113}{section*.43}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{പോയിന്റ് നിലയിലെ വ്യത്യാസം കൂട്ടിയ ബെല്‍ജിയന്‍ ഗ്രാന്‍പ്രി}{118}{section*.44}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ആസ്റ്റെറിക്സിന്റെ സാഹസിക കഥകള്‍}{121}{section*.45}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{ഫോര്‍മുല വണ്‍ ഇന്ത്യയിലെത്തുമ്പോള്‍}{126}{section*.46}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{തലമുടിയെക്കുറിച്ചു് ഒരുപന്യാസം}{129}{section*.47}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{സാമൂഹ്യവിമര്‍ശനത്തെക്കുറിച്ചു് }{133}{section*.48}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{യുഎസ് സിറ്റ്കോമിലെ ഇന്ത്യക്കാരന്‍}{137}{section*.49}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {section}{എന്തുകൊണ്ടു് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{142}{section*.50}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
+\contentsline {chapter}{\numberline {4}Hospital Logs}{151}{chapter.4}
+\contentsline {section}{Hospital Log 1}{152}{section*.51}
 \select@language {english}
 \select@language {english}
 \select@language {english}
@@ -194,14 +187,25 @@
 \select@language {english}
 \select@language {malayalam}
 \select@language {malayalam}
-\contentsline {section}{Hospital Log 3}{164}{section*.52}
+\contentsline {section}{Hospital Log 2}{159}{section*.52}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
 \select@language {english}
 \select@language {english}
 \select@language {english}
 \select@language {english}
 \select@language {malayalam}
 \select@language {malayalam}
-\contentsline {section}{Hospital Log 4}{168}{section*.53}
+\contentsline {section}{Hospital Log 3}{168}{section*.53}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {malayalam}
+\select@language {malayalam}
+\contentsline {section}{Hospital Log 4}{172}{section*.54}
 \select@language {english}
 \select@language {english}
 \select@language {malayalam}
