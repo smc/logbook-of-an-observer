@@ -1,6 +1,6 @@
 all: Logbook.pdf
 
-Logbook.pdf: Logbook.tex
+Logbook.pdf: Logbook.tex *.tex *.sty
 	xelatex $<
 	xelatex $<	# to include generated ToC
 	xdg-open $@
