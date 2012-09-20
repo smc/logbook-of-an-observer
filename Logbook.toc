@@ -8,17 +8,15 @@
 \select@language {english}
 \select@language {malayalam}
 \contentsline {chapter}{\numberline {1}ഓര്‍മ്മയിലെ ജിനേഷ്}{1}{chapter.1}
-\contentsline {section}{തെളിഞ്ഞ കാലം}{2}{section*.2}
-\select@language {english}
-\select@language {malayalam}
-\contentsline {section}{ജീവിക്കുവാനുള്ള കാരണങ്ങള്‍}{5}{section*.3}
+\contentsline {section}{ജീവിക്കുവാനുള്ള കാരണങ്ങള്‍}{2}{section*.2}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{Anivar's email to Swathanthra Malayalam Computing}{10}{section*.4}
+\contentsline {section}{Anivar's email to Swathanthra Malayalam Computing}{7}{section*.3}
 \select@language {english}
 \select@language {malayalam}
+\contentsline {section}{തെളിഞ്ഞ കാലം}{9}{section*.4}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
