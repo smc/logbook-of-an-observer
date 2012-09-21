@@ -7,6 +7,8 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {chapter}{\numberline {1}ഓര്‍മ്മയിലെ ജിനേഷ്}{1}{chapter.1}
 \contentsline {section}{ജീവിക്കുവാനുള്ള കാരണങ്ങള്‍}{2}{section*.2}
 \select@language {english}
@@ -167,6 +169,8 @@
 \select@language {english}
 \select@language {malayalam}
 \contentsline {section}{എന്തുകൊണ്ടു് പത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയെ പേടിക്കുന്നു?}{142}{section*.50}
+\select@language {english}
+\select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
 \select@language {english}
