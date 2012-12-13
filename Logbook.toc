@@ -9,6 +9,8 @@
 \select@language {malayalam}
 \select@language {english}
 \select@language {malayalam}
+\select@language {english}
+\select@language {malayalam}
 \contentsline {chapter}{\numberline {1}ഓര്‍മ്മയിലെ ജിനേഷ്}{1}{chapter.1}
 \contentsline {section}{മുഖക്കുറി}{2}{section*.2}
 \select@language {english}
@@ -30,7 +32,9 @@
 \contentsline {section}{തെളിഞ്ഞ കാലം}{15}{section*.7}
 \select@language {english}
 \select@language {malayalam}
+\select@language {english}
 \contentsline {section}{My notes on Jinesh}{18}{section*.8}
+\select@language {malayalam}
 \contentsline {section}{ജീവനുള്ള ഓര്‍മ്മ}{19}{section*.9}
 \select@language {english}
 \select@language {malayalam}
