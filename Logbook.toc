@@ -234,13 +234,10 @@
 \select@language {english}
 \select@language {english}
 \select@language {english}
-\contentsline {section}{\numberline {4.1}Me and my writings}{181}{section.4.1}
 \select@language {english}
 \select@language {english}
-\contentsline {section}{\numberline {4.2}Novelty, publishing and more}{183}{section.4.2}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{\numberline {4.3}Half baked analysis and Questions!}{185}{section.4.3}
 \select@language {malayalam}
 \contentsline {section}{Hospital Log 6}{186}{section*.62}
 \select@language {english}
@@ -248,6 +245,6 @@
 \contentsline {section}{Hospital Log 7}{187}{section*.63}
 \select@language {english}
 \select@language {malayalam}
-\contentsline {section}{Hospital Log 7}{189}{section*.64}
+\contentsline {section}{Hospital Log 8}{189}{section*.64}
 \select@language {english}
 \select@language {malayalam}
