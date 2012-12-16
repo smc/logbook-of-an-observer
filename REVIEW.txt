@@ -12,6 +12,10 @@ blog1.tex - Vishnu M, Haris Ibrahim K. V.
 blog2.tex - Praveen A, Haris Ibrahim K. V.
 blog3.tex - Haris Ibrahim K. V., Praveen A
 blog4.tex - Haris Ibrahim K. V., Minto Joseph
+blog5.tex - Haris Ibrahim K. V.
+blog6.tex - Haris Ibrahim K. V.
+blog7.tex - Haris Ibrahim K. V.
+blog8.tex - Haris Ibrahim K. V.
 buji.tex - Praveen A
 canada.tex - Praveen A
 cricket-nationality.tex - Praveen A
@@ -36,3 +40,5 @@ social-science2.tex - Praveen A
 spanish-leg.tex - Praveen A
 studentpolitics.tex - Haris Ibrahim K. V., Praveen A, Minto Joseph
 viewonwomen.tex - Praveen A
+by-neeba.tex - Haris Ibrahim K. V.
+by-vasudev.tex - Haris Ibrahim K. V.
