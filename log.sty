@@ -1,15 +1,17 @@
 \usepackage{pdfpages}
 \usepackage[
-  inner=0.75in,
-  outer=0.75in,
-  top=0.75in,
-  bottom=0.75in,
-  paperwidth=13.970cm,
-  paperheight=21.589cm]{geometry}
+  inner=2.4cm,
+  outer=2.5cm,
+  top=2.5cm,
+  bottom=2.5cm,
+  paperwidth=15.5cm,
+  paperheight=22.5cm,
+  headheight=0.70cm]{geometry}
 \usepackage{xltxtra}
 \usepackage{fontspec}
 \usepackage{fancyhdr}
 \usepackage[final]{microtype}
+
 
 % Use Malayalam Hyphenation with Polyglossia
 \usepackage{polyglossia}
@@ -20,6 +22,7 @@
 \newfontfamily\englishfont{URW Palladio L}
 
 \usepackage{framed}
+%\definecolor{shadecolor}{rgb}{0}
 \usepackage{url}
 \usepackage{graphicx}
 
@@ -30,7 +33,7 @@
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
-\linespread{1.1}
+\linespread{1.1} %line spacing
 \widowpenalty=10000
 \clubpenalty=10000
 \raggedbottom
@@ -38,18 +41,24 @@
 
 
 \newcommand{\secstar}[1]{\thispagestyle{empty}\clearpage\phantomsection\section*{\addcontentsline{toc}{section}{#1}\centering #1}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+                                     {-1ex \@plus 0.1ex \@minus 0.1ex}%
+                                     {0ex \@plus .1ex}%
+                                     {\normalfont\large\bfseries}}
 
+%\renewcommand{\chaptermark}[1]{\marknone{#1}{}}
+%\newcommand{\newchapter}[1]{\thispagestyle{empty}\chapter*{\addcontentsline{toc}{chapter}{#1} #1}}
 
 \usepackage{titlesec}
 \titleformat{\chapter}[display]
-{\normalfont\bfseries\filcenter}
-{\LARGE\thechapter}
+{\normalfont\bfseries\filright}
+{\hspace*{5em}\LARGE\thechapter}
 {1ex}
-{\titlerule[2pt]
-\vspace{2ex}%
-\LARGE}
-[\vspace{1ex}%
-{\titlerule[2pt]}]
+{\titlerule[0pt]
+\vspace{0ex}%
+\hspace*{4em}\LARGE}
+[\vspace{0ex}%
+{\titlerule[0pt]}]
 
 
 %% Define a new 'leo' style for the package that will use a smaller font.
@@ -59,3 +68,23 @@
 \makeatother
 %% Now actually use the newly defined style.
 \urlstyle{leo}
+
+%% Adjust vertical space before a paragraph
+%\makeatletter
+%\renewcommand{\paragraph}{%
+%  \@startsection{paragraph}{4}%
+%  {\z@}{5.5ex \@plus 1ex \@minus .2ex}{-1em}%
+%  {\normalfont\normalsize\bfseries}%
+%}
+%\makeatother
+
+%% No page header for ToC
+\makeatletter
+\renewcommand\tableofcontents{%
+  \section*{\contentsname}% or \chapter* but that looks ugly
+  \pagestyle{empty}%
+  \enlargethispage*{2\baselineskip}
+  \@starttoc{toc}}
+\makeatother
+
+\usepackage{enumitem}	% to adjust item list linespacing
