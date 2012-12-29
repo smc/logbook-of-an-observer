@@ -62,17 +62,15 @@
 %\fancyhead[RO,LE]{\thepage}
 %\fancyfoot[CO,CE]{\thepage}
 \fancyhead[LO]{\color{gray}\emph{ജിനേഷ്}}
-\fancyhead[RO]{\emph{\thepage}}
 \fancyhead[RE]{\color{gray}\emph{ഒരു നിരീക്ഷകന്റെ കുറിപ്പുകള്‍}}
-\fancyhead[LE]{\emph{\thepage}}
+\fancyhead[RO,LE]{\emph{\thepage}}
 \fancypagestyle{plain}{%
   \fancyhead{}
   \fancyfoot{}
 
   \fancyhead[LO]{\color{gray}\emph{ജിനേഷ്}}
-  \fancyhead[RO]{\emph{\thepage}}
   \fancyhead[RE]{\color{gray}\emph{ഒരു നിരീക്ഷകന്റെ കുറിപ്പുകള്‍}}
-  \fancyhead[LE]{\emph{\thepage}}
+  \fancyhead[RO,LE]{\emph{\thepage}}
 %  \fancyfoot[CO,CE]{\thepage}
 %  \fancyfoot[CE]{\thepage}
 }
@@ -90,7 +88,8 @@
 \setlength{\parskip}{5pt plus 1pt minus 1pt} %define vertical space between paragraphs
 
 \chapter{ഓര്‍മ്മയിലെ ജിനേഷ്}
-\pagestyle{empty}	% don't print page header on new chapter
+\thispagestyle{empty}	% don't print page header on new chapter
+\pagestyle{empty}	% don't print page header on next blank page
 \cleardoublepage
 \pagestyle{fancy}	% we had set pagestyle to empty/plain for chapter/ToC
 
@@ -108,7 +107,8 @@
 
 % Blog Posts
 \chapter{Blog Posts}
-\pagestyle{empty}	% don't print page header on new chapter
+\thispagestyle{empty}	% don't print page header on new chapter
+\pagestyle{empty}	% don't print page header on next blank page
 \cleardoublepage
 \pagestyle{fancy}	% we had set pagestyle to empty for chapter, reset it
 \input{firstpost.tex}
@@ -136,7 +136,8 @@
 %--------------------
 % Articles published in Malayal.am
 \chapter{മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ\\ \hspace*{2.3em}പോര്‍ട്ടലില്‍ നിന്നും}
-\pagestyle{empty}	% don't print page header on new chapter
+\thispagestyle{empty}	% don't print page header on new chapter
+\pagestyle{empty}	% don't print page header on next blank page
 \cleardoublepage
 \pagestyle{fancy}	% we had set pagestyle to empty for chapterm reset it
 \input{formula1.tex}
@@ -167,7 +168,8 @@
 
 % Hospital Logs
 \chapter{Hospital Logs}
-\pagestyle{empty}	% don't print page header on new chapter
+\thispagestyle{empty}	% don't print page header on new chapter
+\pagestyle{empty}	% don't print page header on next blank page
 \cleardoublepage
 \pagestyle{fancy}	% we had set pagestyle to empty for chapter, reset it
 \input{blog1.tex}
