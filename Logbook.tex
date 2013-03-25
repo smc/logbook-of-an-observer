@@ -15,7 +15,7 @@
 
 %-----------------------------Cover Page----------------------------------------
 
-\includepdf{cover}
+%\includepdf{cover}
 
 %------------------------------Title Page --------------------------------------
 ~
@@ -37,8 +37,6 @@
 \vfill
 ~
 \newpage
-%------------------------------Dedication --------------------------------------
-\frontmatter
 ~
 \vfill
 
@@ -47,30 +45,60 @@
 \begin{center}{\dejavu ♡}Copyheart 2012. Copying is an act of love. Love is not subject to law. Please copy and share.\\
 {\dejavu ♡}പകര്‍പ്പിഷ്ടം 2012.  ഇഷ്ടപ്പെടുന്നവരാണു് പകര്‍ത്തുന്നതു്. ഇഷ്ടത്തിനു് നിയമമില്ല. പകര്‍ത്തുവിന്‍ പങ്കുവെയ്ക്കുവിന്‍.\end{center}
 
-
 \vfill
 ~
+
+\begin{flushleft}
+ഒരു നിരീക്ഷകന്റെ കുറിപ്പുകള്‍ \\
+Logbook of an Observer \\
+(Blog Postings) \\
+Jinesh K.J \\[2ex]
+
+Typeset using \XeTeX \\
+Font Rachana Unicode \\[2ex]
+
+Printed by Root, Thrissur \\[2ex]
+
+Published by \\
+Akam Books \\
+Opp. Mata Amruthanandamayi Ashram \\
+Kannur - 670002\\
+Phone 0497 2708 901, 9446 835 926 \\
+\url{akambooks@gmail.com} \\[2ex]
+
+First Edition April 2013 \\
+₹ 200.00
+\end{flushleft}
+
 \newpage
 
+%------------------------------Dedication --------------------------------------
+\frontmatter
+
 \input{poem.tex}
+\cleardoublepage
+\input{akam-hashim-foreword.tex}
+\cleardoublepage
 
 %------------------------------Thanks-------------------------------------------
-\input{thanks-eng.tex}
 \input{thanks-mal.tex}
+\input{thanks-eng.tex}
 %------------------------------Define Page Headers------------------------------
 
 %\fancyhead[RO,LE]{\thepage}
 %\fancyfoot[CO,CE]{\thepage}
 \fancyhead[LO]{\color{gray}\emph{ജിനേഷ്}}
+\fancyhead[RO]{\emph{\thepage}}
 \fancyhead[RE]{\color{gray}\emph{ഒരു നിരീക്ഷകന്റെ കുറിപ്പുകള്‍}}
-\fancyhead[RO,LE]{\emph{\thepage}}
+\fancyhead[LE]{\emph{\thepage}}
 \fancypagestyle{plain}{%
   \fancyhead{}
   \fancyfoot{}
 
   \fancyhead[LO]{\color{gray}\emph{ജിനേഷ്}}
+  \fancyhead[RO]{\emph{\thepage}}
   \fancyhead[RE]{\color{gray}\emph{ഒരു നിരീക്ഷകന്റെ കുറിപ്പുകള്‍}}
-  \fancyhead[RO,LE]{\emph{\thepage}}
+  \fancyhead[LE]{\emph{\thepage}}
 %  \fancyfoot[CO,CE]{\thepage}
 %  \fancyfoot[CE]{\thepage}
 }
@@ -88,10 +116,9 @@
 \setlength{\parskip}{5pt plus 1pt minus 1pt} %define vertical space between paragraphs
 
 \chapter{ഓര്‍മ്മയിലെ ജിനേഷ്}
-\thispagestyle{empty}	% don't print page header on new chapter
-\pagestyle{empty}	% don't print page header on next blank page
+\pagestyle{empty}	% don't print page header on new chapter
 \cleardoublepage
-\pagestyle{fancy}	% we had set pagestyle to empty/plain for chapter/ToC
+\pagestyle{fancy}	% we had set pagestyle to plain for chapter/ToC
 
 \input{by-jawahar.tex}
 \input{by-neeba.tex}
@@ -107,10 +134,9 @@
 
 % Blog Posts
 \chapter{Blog Posts}
-\thispagestyle{empty}	% don't print page header on new chapter
-\pagestyle{empty}	% don't print page header on next blank page
+\pagestyle{empty}	% don't print page header on new chapter
 \cleardoublepage
-\pagestyle{fancy}	% we had set pagestyle to empty for chapter, reset it
+\pagestyle{fancy}	% we had set pagestyle to plain for chapter/ToC
 \input{firstpost.tex}
 \input{politics.tex}
 \input{mobile.tex}
@@ -136,10 +162,9 @@
 %--------------------
 % Articles published in Malayal.am
 \chapter{മലയാളം ഇന്റര്‍നെറ്റ് വാര്‍ത്താ\\ \hspace*{2.3em}പോര്‍ട്ടലില്‍ നിന്നും}
-\thispagestyle{empty}	% don't print page header on new chapter
-\pagestyle{empty}	% don't print page header on next blank page
+\pagestyle{empty}	% don't print page header on new chapter
 \cleardoublepage
-\pagestyle{fancy}	% we had set pagestyle to empty for chapterm reset it
+\pagestyle{fancy}	% we had set pagestyle to plain for chapter/ToC
 \input{formula1.tex}
 \input{cricket-spirit.tex}
 \input{ambani-mallya.tex}
@@ -168,10 +193,9 @@
 
 % Hospital Logs
 \chapter{Hospital Logs}
-\thispagestyle{empty}	% don't print page header on new chapter
-\pagestyle{empty}	% don't print page header on next blank page
+\pagestyle{empty}	% don't print page header on new chapter
 \cleardoublepage
-\pagestyle{fancy}	% we had set pagestyle to empty for chapter, reset it
+\pagestyle{fancy}	% we had set pagestyle to plain for chapter/ToC
 \input{blog1.tex}
 \input{blog2.tex}
 \input{blog3.tex}
@@ -186,7 +210,7 @@
 
 %-----------------------------Back Cover ----------------------------------------
 
-\includepdf{backcover}
+%\includepdf{backcover}
 
 %--------------------------------------------------------------------
 
