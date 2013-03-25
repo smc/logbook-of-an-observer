@@ -6,4 +6,4 @@ Logbook.pdf: Logbook.tex *.tex *.sty
 	xdg-open $@
 
 clean:
-	rm -f Logbook.{pdf,aux,toc,log}
+	rm -f Logbook.pdf *.{aux,toc,log,out}
