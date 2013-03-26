@@ -210,11 +210,21 @@ First Edition April 2013 \\
 \input{blog6.tex}
 \input{blog7.tex}
 \input{blog8.tex}
+\pagestyle{empty}	% don't print page header on following blank page
+
 %----------------------
 
+%------------------------------ Appendix ----------------------------------------
+\appendix
+\chapter*{Appendix}
+\thispagestyle{empty}	% don't print page header on new chapter
+\clearpage
+\input{freeculture.tex}
+\input{copyheart.tex}
+%----------------------------- Back Matter --------------------------------------
 \backmatter
 
-%-----------------------------Back Cover ----------------------------------------
+%----------------------------- Back Cover ---------------------------------------
 
 %\includepdf{backcover}
 
