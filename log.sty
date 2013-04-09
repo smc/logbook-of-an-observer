@@ -88,4 +88,13 @@
   \@starttoc{toc}}
 \makeatother
 
+%% No Appendix number
+\makeatletter
+\renewcommand\appendix{\par
+  \setcounter{chapter}{0}%
+  \setcounter{section}{0}%
+  \gdef\@chapapp{\appendixname}%
+  \gdef\thechapter{}}
+\makeatother
+
 \usepackage{enumitem}	% to adjust item list linespacing
