@@ -1,0 +1,42 @@
+\newpage
+\begin{english}
+\secstar{Experiments with Tesseract}
+
+I promised my friends at Swathantra Malayalam Computing long time back about extending Tesseract \footnote{\url{http://code.google.com/p/tesseract-ocr/}} to support Malayalam. For last some weeks I have been talking with Debayan \footnote{\url{http://code.google.com/u/debayanin/}} who does for Bengali and was trying to understand the detail of work required. We decided to work together on enhancing the existing tesseract system for indic languages. I will be following the work up in Indic tesseract space \footnote{\url{http://code.google.com/p/tesseractindic/}}.
+
+I conducted some small intial experiments. It gave me an idea of what I have and what is to be done(I am looking forward to a high performance system with efficiency for practical use).
+
+To test the symbol \textbf{classifier} of tesseract(note just classifier), I trained it with a single page and tested on another of same font.
+
+Training data was of about 1000 symbols.Which is pretty small compared to the usual number of symbols we encounter in malayalam which is pegged around 250-350(there are many variations! Hussain sir can give a better number). To my amazement, tesseract training is easy,simple and takes pretty less time(performance evaluation might be immature since, we haven’t trained it perfectly yet).
+
+My initial observations are,
+\begin{itemize}
+\item    The segmentation part of Tesseract is not great and it might not work well with Indic languages( from what i understand, lot of research work is going on improving the segmentation of tesseract). I found it handicapped in case of upper and lower matras.
+\item    Since it is not designed for languages with pre base post base modifier forms, it wont do any re arrangement of modifiers(we have to add language heuristics after recognition).
+\item    Their DAWG based language model is pretty buggy at the moment and might not help us much since,
+    \begin{itemize}
+        \item In symbol to code mapping, we don’t have a one to one map.
+        \item The standard word length it assumes and what we have(when counted in unicode level) very different, which makes a dawg based system very inefficient.
+        \item A simple dictionary based post processor might help us better i think.
+    \end{itemize}
+\end{itemize}
+
+I decided on a future work plan(i will soon update the wiki with these details).
+
+\underline{Future work}
+\begin{itemize}
+    \item Understand the code flow and working of tesseract system(mainly how each functions are called from where for what etc.).
+    \item Identify the modules which affects us and try to understand how.
+    \item Keeping the classifier intact, add a better segmentation system(better fix the bugs in current algo if possible).
+    \item Add a reordering mechanism which is scalable to all languages(i have pretty good idea how to do it, just have to find the right place to insert it to get the right results).
+    \item Add a simple aspell or similar spell checker based language model which should help in correcting the words better than an expensive dawg system.
+\end{itemize}
+
+\underline{Immediate Plans}
+\begin{itemize}
+    \item Train with more data(more fonts,more samples,more symbols). I am planning to do this update before 15th of this month if everything goes will according to plan.
+\end{itemize}
+
+By the way sorry for the tech document kind of style! More tech writing is affecting my normal writing too!Plus day night writig code makes it tough to write something which is not in proper syntax!
+\end{english}
